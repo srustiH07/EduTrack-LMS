@@ -1,0 +1,1001 @@
+student_id,grade,subject,pre_test_score,post_test_score,score_improvement,lessons_completed,total_lessons,completion_pct,avg_time_per_lesson_mins,quiz_attempts,best_quiz_score,streak_days,platform_sessions,device,label_at_risk
+STU-00001,Grade 9,Data Science,73,73,0,32,40,25.0,37.1,1,66,9,27,Mobile,0
+STU-00002,Grade 9,Web Development,67,74,7,20,40,77.5,11.8,2,69,2,53,Mobile,0
+STU-00003,Professional,Python Programming,74,95,21,4,40,30.0,15.5,4,88,11,25,Desktop,0
+STU-00004,Grade 8,Physics,25,39,14,20,40,95.0,35.6,4,66,22,49,Tablet,1
+STU-00005,College Year 2,Chemistry,37,69,32,10,40,47.5,42.9,4,64,23,49,Desktop,0
+STU-00006,Grade 7,English Grammar,32,30,-2,34,40,97.5,30.7,3,54,14,54,Tablet,0
+STU-00007,Grade 10,Physics,48,70,22,26,40,12.5,33.7,1,65,19,39,Mobile,0
+STU-00008,Grade 8,Design Thinking,28,48,20,14,40,77.5,25.7,6,90,1,67,Desktop,1
+STU-00009,Grade 7,Design Thinking,37,70,33,15,40,35.0,10.4,2,53,10,17,Mobile,0
+STU-00010,Grade 8,Web Development,55,85,30,4,40,20.0,26.1,4,85,3,73,Mobile,0
+STU-00011,Grade 9,Finance,38,57,19,23,40,20.0,33.2,5,95,19,5,Mobile,0
+STU-00012,Grade 8,Physics,65,67,2,27,40,10.0,26.5,2,62,6,58,Desktop,0
+STU-00013,Grade 8,Digital Marketing,74,69,-5,34,40,45.0,38.9,4,45,5,5,Mobile,0
+STU-00014,Grade 9,Design Thinking,42,60,18,37,40,17.5,23.5,1,64,3,66,Mobile,0
+STU-00015,College Year 2,Finance,62,57,-5,9,40,42.5,30.3,2,88,29,65,Mobile,0
+STU-00016,College Year 2,Digital Marketing,63,86,23,37,40,55.0,18.4,2,50,23,76,Desktop,0
+STU-00017,Grade 7,English Grammar,41,67,26,20,40,75.0,25.5,6,98,7,67,Tablet,0
+STU-00018,Grade 8,Chemistry,42,42,0,28,40,10.0,19.6,2,56,2,68,Desktop,0
+STU-00019,Grade 10,Digital Marketing,49,54,5,39,40,80.0,32.5,3,82,10,20,Tablet,0
+STU-00020,Grade 10,Design Thinking,49,54,5,3,40,95.0,35.2,3,94,29,39,Mobile,0
+STU-00021,Grade 6,Python Programming,53,68,15,35,40,20.0,29.5,3,51,17,75,Desktop,0
+STU-00022,Professional,English Grammar,73,69,-4,38,40,67.5,12.4,1,88,21,62,Mobile,0
+STU-00023,Grade 7,Digital Marketing,68,99,31,25,40,30.0,31.7,5,87,30,25,Mobile,0
+STU-00024,Grade 6,Web Development,67,83,16,28,40,67.5,26.8,4,74,8,68,Mobile,0
+STU-00025,Grade 8,Physics,48,82,34,24,40,60.0,20.7,1,70,13,68,Desktop,0
+STU-00026,College Year 1,Digital Marketing,35,53,18,19,40,17.5,28.6,6,66,26,43,Tablet,0
+STU-00027,Professional,Chemistry,45,47,2,9,40,30.0,32.4,3,48,13,18,Desktop,0
+STU-00028,Grade 6,Design Thinking,39,74,35,6,40,50.0,11.1,2,42,7,9,Mobile,0
+STU-00029,Professional,English Grammar,45,58,13,22,40,67.5,18.6,6,46,0,70,Tablet,0
+STU-00030,College Year 1,Mathematics,54,72,18,37,40,85.0,30.3,3,66,24,41,Mobile,0
+STU-00031,Grade 7,Mathematics,49,57,8,11,40,17.5,30.9,5,45,26,44,Mobile,0
+STU-00032,College Year 1,Mathematics,70,100,30,20,40,45.0,40.5,4,81,2,8,Mobile,0
+STU-00033,Grade 8,Physics,67,95,28,26,40,62.5,21.1,3,64,17,64,Desktop,0
+STU-00034,Grade 9,Mathematics,74,91,17,37,40,55.0,32.8,6,80,20,72,Tablet,0
+STU-00035,Grade 10,Finance,67,96,29,25,40,70.0,31.4,5,75,28,69,Tablet,0
+STU-00036,Grade 7,English Grammar,69,75,6,24,40,90.0,12.3,1,69,25,14,Mobile,0
+STU-00037,Grade 9,English Grammar,75,100,25,32,40,27.5,38.1,2,66,18,27,Mobile,0
+STU-00038,Grade 9,English Grammar,68,84,16,40,40,25.0,8.6,6,67,18,55,Desktop,0
+STU-00039,Grade 6,Physics,53,69,16,10,40,60.0,10.4,3,60,15,31,Desktop,0
+STU-00040,Grade 7,Finance,69,79,10,31,40,10.0,30.1,1,90,17,33,Tablet,0
+STU-00041,Professional,Digital Marketing,35,36,1,9,40,95.0,37.6,4,45,20,77,Tablet,0
+STU-00042,College Year 1,Physics,61,68,7,24,40,37.5,35.4,6,64,24,17,Mobile,0
+STU-00043,Grade 7,English Grammar,74,91,17,16,40,40.0,30.6,2,54,26,60,Mobile,0
+STU-00044,Grade 10,Data Science,41,72,31,38,40,30.0,28.3,6,78,25,19,Mobile,0
+STU-00045,College Year 2,Web Development,35,70,35,15,40,57.5,41.8,1,72,1,19,Desktop,0
+STU-00046,Professional,Physics,57,91,34,40,40,45.0,38.2,2,59,19,9,Desktop,0
+STU-00047,Grade 8,Python Programming,74,100,26,31,40,32.5,20.2,4,88,5,65,Mobile,0
+STU-00048,Grade 6,Mathematics,69,100,31,29,40,37.5,32.3,1,45,26,54,Desktop,0
+STU-00049,Grade 10,Python Programming,47,73,26,21,40,52.5,44.9,4,79,23,52,Mobile,0
+STU-00050,Grade 7,Chemistry,27,55,28,4,40,45.0,38.2,1,86,11,77,Mobile,0
+STU-00051,Grade 6,Design Thinking,49,53,4,5,40,92.5,20.3,6,82,24,13,Desktop,0
+STU-00052,Professional,Physics,45,78,33,12,40,22.5,18.6,5,61,8,61,Tablet,0
+STU-00053,Grade 7,Data Science,38,45,7,6,40,75.0,25.2,6,77,10,55,Mobile,1
+STU-00054,College Year 2,Finance,75,74,-1,28,40,65.0,16.3,4,76,19,9,Desktop,0
+STU-00055,Grade 7,Web Development,50,73,23,12,40,67.5,32.7,5,97,3,51,Desktop,0
+STU-00056,Grade 10,Mathematics,34,33,-1,6,40,45.0,21.8,2,81,17,32,Tablet,0
+STU-00057,Grade 6,Chemistry,54,61,7,38,40,97.5,39.6,1,83,3,65,Mobile,0
+STU-00058,Grade 8,English Grammar,62,78,16,33,40,17.5,43.7,2,82,7,64,Mobile,0
+STU-00059,Grade 10,Design Thinking,75,93,18,16,40,85.0,20.3,4,54,2,16,Mobile,0
+STU-00060,Grade 10,Chemistry,51,57,6,9,40,27.5,34.8,2,87,16,31,Desktop,0
+STU-00061,Grade 6,Python Programming,72,100,28,11,40,82.5,25.8,2,80,17,27,Tablet,0
+STU-00062,Professional,Digital Marketing,63,66,3,21,40,92.5,31.9,3,98,18,70,Mobile,0
+STU-00063,Grade 8,Mathematics,44,45,1,25,40,15.0,42.1,6,98,21,36,Mobile,1
+STU-00064,Grade 9,Digital Marketing,41,60,19,26,40,75.0,19.1,2,40,7,12,Mobile,0
+STU-00065,Professional,Data Science,25,51,26,25,40,37.5,42.0,6,50,5,26,Desktop,0
+STU-00066,Grade 6,Data Science,61,69,8,3,40,35.0,28.4,2,79,21,60,Mobile,0
+STU-00067,Professional,Data Science,50,52,2,37,40,42.5,42.4,4,90,14,23,Mobile,0
+STU-00068,Grade 8,Design Thinking,34,36,2,22,40,85.0,43.5,5,91,15,59,Tablet,1
+STU-00069,College Year 1,English Grammar,29,29,0,26,40,35.0,44.2,3,65,27,73,Mobile,1
+STU-00070,Grade 8,Python Programming,73,74,1,21,40,85.0,19.8,5,79,0,5,Mobile,0
+STU-00071,Grade 7,Finance,46,54,8,10,40,35.0,26.8,6,84,29,44,Mobile,0
+STU-00072,College Year 2,Design Thinking,28,62,34,12,40,45.0,10.8,4,92,5,59,Tablet,0
+STU-00073,Grade 10,Data Science,67,76,9,5,40,52.5,16.3,5,98,6,68,Mobile,0
+STU-00074,Grade 7,Physics,62,78,16,13,40,82.5,43.1,1,53,20,59,Tablet,0
+STU-00075,Grade 8,Finance,63,80,17,39,40,7.5,12.3,6,98,18,31,Tablet,0
+STU-00076,College Year 1,Data Science,39,73,34,7,40,100.0,14.5,5,44,1,77,Tablet,0
+STU-00077,College Year 1,Python Programming,45,52,7,35,40,40.0,12.0,5,56,9,79,Desktop,0
+STU-00078,Grade 6,Digital Marketing,73,68,-5,4,40,12.5,38.5,2,69,7,8,Desktop,0
+STU-00079,College Year 1,Physics,28,38,10,4,40,95.0,20.4,5,100,23,12,Tablet,1
+STU-00080,College Year 1,Mathematics,46,79,33,35,40,95.0,36.2,4,53,14,30,Desktop,0
+STU-00081,College Year 2,English Grammar,58,55,-3,22,40,97.5,11.0,3,40,27,14,Desktop,0
+STU-00082,Grade 10,Finance,36,58,22,19,40,87.5,33.5,5,97,21,74,Mobile,0
+STU-00083,Grade 6,Mathematics,75,75,0,7,40,50.0,10.3,6,75,13,65,Mobile,0
+STU-00084,Grade 8,Digital Marketing,70,96,26,17,40,75.0,37.9,1,66,18,8,Mobile,0
+STU-00085,Grade 7,Data Science,49,71,22,21,40,82.5,15.7,4,59,9,41,Desktop,0
+STU-00086,Grade 10,Python Programming,30,42,12,18,40,80.0,23.1,6,76,13,6,Mobile,1
+STU-00087,College Year 2,Web Development,44,75,31,7,40,35.0,10.4,2,88,23,52,Tablet,0
+STU-00088,Grade 7,Finance,32,62,30,5,40,45.0,19.4,2,62,1,39,Mobile,0
+STU-00089,Grade 8,Design Thinking,73,73,0,22,40,22.5,32.3,3,42,23,26,Mobile,0
+STU-00090,Grade 7,Python Programming,38,59,21,16,40,22.5,28.5,4,69,12,75,Mobile,0
+STU-00091,Grade 7,Design Thinking,33,63,30,36,40,95.0,11.4,6,40,25,32,Desktop,0
+STU-00092,Grade 9,Digital Marketing,73,72,-1,32,40,60.0,9.0,1,58,27,35,Desktop,0
+STU-00093,College Year 2,Data Science,61,58,-3,31,40,45.0,31.3,5,85,9,27,Mobile,0
+STU-00094,College Year 1,Python Programming,72,82,10,13,40,95.0,42.9,4,54,26,12,Mobile,0
+STU-00095,College Year 1,Design Thinking,41,64,23,4,40,35.0,15.4,2,51,19,56,Tablet,0
+STU-00096,Grade 9,Physics,57,76,19,34,40,82.5,16.1,5,41,20,16,Mobile,0
+STU-00097,College Year 2,Finance,46,69,23,28,40,90.0,15.9,3,61,5,37,Mobile,0
+STU-00098,Grade 8,Design Thinking,75,72,-3,4,40,10.0,40.8,4,97,23,71,Mobile,0
+STU-00099,Grade 9,Mathematics,72,76,4,11,40,17.5,8.2,2,85,16,35,Tablet,0
+STU-00100,Grade 10,Physics,53,56,3,4,40,37.5,8.1,1,50,18,48,Mobile,0
+STU-00101,College Year 2,Mathematics,72,100,28,37,40,45.0,21.2,2,95,7,41,Desktop,0
+STU-00102,College Year 2,Web Development,33,63,30,24,40,75.0,26.9,5,57,14,45,Mobile,0
+STU-00103,Professional,Digital Marketing,59,60,1,12,40,72.5,35.7,4,85,22,23,Mobile,0
+STU-00104,Grade 8,Design Thinking,42,72,30,3,40,95.0,39.9,6,98,10,52,Mobile,0
+STU-00105,Grade 6,English Grammar,40,41,1,35,40,77.5,17.8,4,76,15,61,Tablet,1
+STU-00106,Grade 9,Data Science,53,56,3,21,40,80.0,41.9,3,83,23,52,Desktop,0
+STU-00107,College Year 1,Chemistry,45,72,27,17,40,47.5,27.6,6,93,21,45,Desktop,0
+STU-00108,Grade 9,Digital Marketing,26,52,26,31,40,15.0,36.5,4,73,26,61,Desktop,0
+STU-00109,Grade 8,Physics,72,67,-5,3,40,42.5,29.8,2,82,15,50,Tablet,0
+STU-00110,Grade 8,Web Development,29,62,33,19,40,7.5,20.0,2,45,17,26,Tablet,0
+STU-00111,Professional,Python Programming,47,79,32,7,40,27.5,23.4,6,46,18,41,Tablet,0
+STU-00112,Grade 6,Python Programming,61,71,10,21,40,45.0,35.2,2,81,22,8,Mobile,0
+STU-00113,Professional,Physics,32,59,27,39,40,100.0,12.9,5,48,28,78,Desktop,0
+STU-00114,Grade 10,Data Science,38,57,19,22,40,50.0,9.1,4,81,24,18,Desktop,0
+STU-00115,College Year 1,Finance,63,68,5,24,40,80.0,16.5,4,78,21,58,Desktop,0
+STU-00116,Professional,Finance,73,85,12,36,40,52.5,11.2,3,70,25,71,Mobile,0
+STU-00117,Professional,English Grammar,70,93,23,33,40,55.0,9.5,1,64,12,22,Mobile,0
+STU-00118,Professional,Mathematics,31,35,4,28,40,32.5,11.4,2,51,15,57,Mobile,1
+STU-00119,Grade 8,Physics,73,77,4,4,40,92.5,29.9,2,41,21,39,Mobile,0
+STU-00120,Grade 9,Data Science,66,61,-5,16,40,15.0,19.6,1,69,19,63,Mobile,0
+STU-00121,Grade 8,Mathematics,65,68,3,25,40,92.5,11.0,6,54,8,51,Mobile,0
+STU-00122,College Year 1,Digital Marketing,34,29,-5,20,40,90.0,43.6,3,77,30,37,Desktop,0
+STU-00123,Grade 7,Mathematics,45,58,13,9,40,40.0,16.1,4,59,27,24,Mobile,0
+STU-00124,College Year 1,Design Thinking,40,51,11,26,40,97.5,40.3,4,99,23,29,Mobile,0
+STU-00125,Grade 6,Python Programming,28,35,7,21,40,82.5,11.0,6,83,16,75,Mobile,0
+STU-00126,College Year 1,Web Development,32,49,17,31,40,50.0,20.3,1,87,27,73,Desktop,1
+STU-00127,Grade 8,Design Thinking,64,63,-1,13,40,32.5,13.2,1,89,5,35,Tablet,0
+STU-00128,Grade 7,English Grammar,36,56,20,8,40,52.5,41.1,3,98,8,49,Desktop,0
+STU-00129,Grade 7,Finance,36,45,9,38,40,37.5,25.3,6,98,29,36,Mobile,1
+STU-00130,College Year 1,Data Science,64,61,-3,34,40,65.0,40.8,5,93,25,71,Tablet,0
+STU-00131,College Year 1,Data Science,38,34,-4,8,40,27.5,33.2,4,98,29,56,Mobile,1
+STU-00132,Grade 10,Digital Marketing,70,66,-4,26,40,55.0,13.3,5,97,1,31,Mobile,0
+STU-00133,College Year 2,Digital Marketing,64,98,34,20,40,30.0,12.7,6,85,21,53,Tablet,0
+STU-00134,Grade 8,Digital Marketing,64,87,23,38,40,32.5,20.6,5,46,11,23,Tablet,0
+STU-00135,Grade 8,Data Science,48,62,14,24,40,20.0,24.9,1,92,24,72,Mobile,0
+STU-00136,Grade 8,Chemistry,43,75,32,37,40,32.5,17.7,3,53,1,77,Desktop,0
+STU-00137,Grade 9,Design Thinking,36,37,1,32,40,35.0,11.5,6,51,21,10,Mobile,1
+STU-00138,College Year 2,Digital Marketing,37,32,-5,37,40,52.5,39.9,6,93,30,60,Tablet,1
+STU-00139,Grade 10,Chemistry,73,96,23,35,40,55.0,37.2,5,64,20,40,Desktop,0
+STU-00140,Professional,Physics,56,57,1,15,40,32.5,24.7,4,81,22,18,Tablet,0
+STU-00141,Grade 8,Finance,69,90,21,33,40,10.0,30.8,4,49,17,21,Mobile,0
+STU-00142,Grade 8,Mathematics,35,44,9,19,40,37.5,17.4,6,83,1,58,Mobile,1
+STU-00143,Grade 9,Finance,40,37,-3,19,40,95.0,16.9,5,86,25,14,Mobile,0
+STU-00144,Grade 10,Design Thinking,67,66,-1,25,40,97.5,31.8,1,42,8,38,Tablet,0
+STU-00145,College Year 1,English Grammar,28,59,31,25,40,82.5,37.4,1,60,10,56,Mobile,0
+STU-00146,Grade 6,Design Thinking,61,88,27,39,40,32.5,31.6,5,94,5,69,Tablet,0
+STU-00147,Grade 10,Physics,66,97,31,8,40,90.0,36.8,5,64,1,63,Tablet,0
+STU-00148,Professional,English Grammar,30,48,18,21,40,32.5,37.9,2,65,0,10,Tablet,1
+STU-00149,Grade 6,Digital Marketing,60,92,32,38,40,85.0,18.5,6,51,22,78,Desktop,0
+STU-00150,College Year 1,Chemistry,43,65,22,39,40,80.0,17.9,4,61,9,77,Mobile,0
+STU-00151,Grade 9,Physics,71,85,14,31,40,87.5,24.2,5,40,20,39,Mobile,0
+STU-00152,College Year 2,Finance,35,51,16,23,40,97.5,11.2,1,59,3,39,Mobile,0
+STU-00153,Grade 8,Python Programming,69,82,13,21,40,70.0,39.5,6,59,10,68,Mobile,0
+STU-00154,Grade 10,Digital Marketing,54,65,11,8,40,100.0,41.6,6,45,30,45,Desktop,0
+STU-00155,Grade 10,Python Programming,66,76,10,16,40,85.0,20.8,2,91,19,5,Desktop,0
+STU-00156,Professional,English Grammar,29,42,13,27,40,47.5,30.6,1,78,30,70,Mobile,1
+STU-00157,Grade 6,Physics,57,61,4,8,40,52.5,20.9,2,60,25,73,Mobile,0
+STU-00158,Grade 6,Mathematics,45,72,27,7,40,32.5,8.9,2,59,23,71,Mobile,0
+STU-00159,Grade 8,Chemistry,66,61,-5,17,40,77.5,12.0,2,89,18,31,Mobile,0
+STU-00160,Grade 8,Finance,64,90,26,5,40,30.0,30.2,5,73,11,66,Tablet,0
+STU-00161,Professional,Chemistry,40,46,6,6,40,75.0,26.5,5,45,6,56,Desktop,1
+STU-00162,Grade 9,Design Thinking,29,51,22,32,40,22.5,10.1,6,56,1,20,Mobile,0
+STU-00163,College Year 2,Python Programming,26,51,25,6,40,25.0,16.8,2,81,22,52,Desktop,0
+STU-00164,College Year 1,Python Programming,30,42,12,30,40,50.0,42.7,5,68,12,63,Desktop,1
+STU-00165,Grade 9,English Grammar,75,100,25,25,40,92.5,14.3,5,46,18,31,Desktop,0
+STU-00166,Grade 7,Data Science,70,81,11,36,40,72.5,28.2,4,57,5,65,Mobile,0
+STU-00167,Grade 10,Python Programming,26,59,33,8,40,90.0,34.3,2,76,9,14,Desktop,0
+STU-00168,Grade 8,Design Thinking,45,74,29,21,40,45.0,12.4,2,58,12,66,Mobile,0
+STU-00169,Grade 7,Finance,41,41,0,35,40,82.5,15.4,3,81,23,66,Desktop,0
+STU-00170,Professional,Design Thinking,52,75,23,7,40,85.0,24.5,2,70,5,26,Desktop,0
+STU-00171,Grade 9,Digital Marketing,68,100,32,20,40,30.0,19.0,3,73,14,18,Mobile,0
+STU-00172,College Year 2,Finance,45,57,12,37,40,52.5,16.1,3,64,30,29,Mobile,0
+STU-00173,Grade 9,English Grammar,31,57,26,36,40,17.5,38.4,5,77,9,59,Tablet,0
+STU-00174,Grade 6,Design Thinking,71,66,-5,24,40,52.5,23.8,4,78,7,65,Tablet,0
+STU-00175,Professional,Mathematics,70,80,10,36,40,35.0,13.8,6,43,0,63,Mobile,0
+STU-00176,College Year 2,Mathematics,49,68,19,9,40,92.5,14.8,1,88,0,71,Tablet,0
+STU-00177,Grade 7,Python Programming,54,60,6,13,40,12.5,14.0,5,72,10,77,Mobile,0
+STU-00178,College Year 1,Python Programming,68,79,11,18,40,30.0,29.8,4,71,14,15,Mobile,0
+STU-00179,College Year 2,Design Thinking,43,53,10,35,40,67.5,22.5,6,43,5,71,Mobile,0
+STU-00180,Professional,English Grammar,37,63,26,18,40,77.5,13.3,3,100,17,13,Mobile,0
+STU-00181,Grade 7,Web Development,39,67,28,11,40,100.0,31.2,1,95,4,46,Mobile,0
+STU-00182,College Year 1,Chemistry,48,45,-3,12,40,37.5,15.4,6,50,14,75,Tablet,1
+STU-00183,Grade 10,English Grammar,39,68,29,32,40,62.5,31.8,1,81,8,6,Mobile,0
+STU-00184,College Year 2,Chemistry,60,56,-4,11,40,80.0,34.7,2,94,1,45,Mobile,0
+STU-00185,College Year 2,Data Science,31,40,9,34,40,47.5,38.9,3,83,26,11,Mobile,0
+STU-00186,College Year 2,Finance,41,74,33,34,40,20.0,12.0,2,55,0,50,Desktop,0
+STU-00187,College Year 1,Physics,37,67,30,18,40,65.0,12.7,3,43,18,50,Mobile,0
+STU-00188,Grade 8,Python Programming,31,53,22,7,40,30.0,21.8,3,42,18,34,Mobile,0
+STU-00189,College Year 1,Python Programming,69,74,5,4,40,82.5,33.6,3,96,30,73,Mobile,0
+STU-00190,Grade 10,Finance,40,44,4,36,40,20.0,20.7,5,72,1,5,Mobile,1
+STU-00191,College Year 2,Data Science,54,57,3,12,40,90.0,37.1,6,52,22,52,Mobile,0
+STU-00192,Grade 10,English Grammar,47,43,-4,21,40,57.5,24.8,6,97,5,44,Mobile,1
+STU-00193,Grade 6,Data Science,51,81,30,40,40,17.5,8.6,1,51,7,41,Mobile,0
+STU-00194,Grade 10,Python Programming,47,76,29,20,40,32.5,20.8,4,78,17,44,Mobile,0
+STU-00195,Professional,Mathematics,37,35,-2,3,40,85.0,10.5,3,55,7,38,Mobile,1
+STU-00196,Professional,Data Science,62,75,13,22,40,62.5,39.4,1,54,29,63,Mobile,0
+STU-00197,Grade 7,Web Development,30,48,18,30,40,42.5,11.2,2,53,26,12,Mobile,1
+STU-00198,Grade 6,Chemistry,26,36,10,38,40,10.0,36.0,3,61,15,77,Mobile,1
+STU-00199,Grade 8,Data Science,37,39,2,39,40,80.0,38.1,1,41,18,45,Mobile,0
+STU-00200,College Year 1,Finance,57,83,26,20,40,45.0,25.7,4,54,2,27,Desktop,0
+STU-00201,Grade 8,Physics,28,31,3,29,40,77.5,21.7,4,55,25,5,Tablet,0
+STU-00202,College Year 2,Data Science,63,81,18,6,40,37.5,24.7,6,96,18,43,Mobile,0
+STU-00203,Grade 6,Web Development,62,96,34,8,40,10.0,26.6,1,97,17,64,Mobile,0
+STU-00204,Grade 9,Finance,31,65,34,13,40,72.5,11.6,5,91,14,23,Tablet,0
+STU-00205,Grade 10,Mathematics,64,97,33,20,40,10.0,22.3,2,71,12,19,Mobile,0
+STU-00206,Professional,Physics,70,97,27,26,40,15.0,25.4,5,58,8,34,Desktop,0
+STU-00207,Grade 6,Data Science,38,53,15,29,40,67.5,33.9,5,91,5,76,Tablet,0
+STU-00208,College Year 2,Mathematics,68,96,28,31,40,87.5,8.9,1,77,2,72,Mobile,0
+STU-00209,College Year 2,Data Science,33,57,24,21,40,67.5,44.6,6,51,24,8,Desktop,0
+STU-00210,Professional,Design Thinking,49,57,8,36,40,30.0,20.3,6,62,5,9,Mobile,0
+STU-00211,Grade 9,Python Programming,28,25,-3,14,40,27.5,37.6,3,43,1,50,Mobile,1
+STU-00212,Grade 8,English Grammar,52,57,5,25,40,55.0,42.0,4,68,2,43,Mobile,0
+STU-00213,College Year 2,Data Science,63,78,15,11,40,27.5,16.0,6,49,23,7,Mobile,0
+STU-00214,Professional,Mathematics,65,64,-1,11,40,37.5,10.4,5,47,10,66,Tablet,0
+STU-00215,Grade 6,Web Development,58,66,8,9,40,95.0,27.4,4,40,0,43,Tablet,0
+STU-00216,Grade 9,Physics,26,54,28,11,40,35.0,40.3,1,57,16,62,Mobile,0
+STU-00217,Grade 9,Chemistry,30,47,17,39,40,67.5,36.7,5,66,29,33,Desktop,0
+STU-00218,Professional,Finance,32,43,11,4,40,20.0,19.3,3,68,27,55,Tablet,1
+STU-00219,Professional,Physics,69,80,11,4,40,52.5,19.4,5,87,14,74,Tablet,0
+STU-00220,Grade 8,Web Development,68,95,27,16,40,100.0,38.8,6,51,27,68,Mobile,0
+STU-00221,Grade 10,Physics,40,63,23,9,40,92.5,11.4,3,67,9,42,Tablet,0
+STU-00222,Grade 8,English Grammar,34,64,30,18,40,25.0,32.4,5,55,14,34,Mobile,0
+STU-00223,College Year 1,Web Development,49,64,15,17,40,72.5,37.6,3,41,12,22,Mobile,0
+STU-00224,Grade 9,Python Programming,69,80,11,8,40,100.0,11.0,4,97,29,54,Tablet,0
+STU-00225,Grade 9,Web Development,57,90,33,33,40,30.0,43.6,5,64,23,15,Mobile,0
+STU-00226,Professional,Data Science,72,91,19,35,40,72.5,27.8,2,51,24,10,Mobile,0
+STU-00227,Grade 7,Design Thinking,65,91,26,5,40,35.0,38.7,3,84,24,16,Mobile,0
+STU-00228,Grade 7,Physics,57,76,19,16,40,67.5,10.4,3,99,19,56,Mobile,0
+STU-00229,Professional,Chemistry,36,55,19,35,40,40.0,27.2,3,58,25,44,Mobile,0
+STU-00230,College Year 2,Digital Marketing,72,79,7,3,40,27.5,23.8,2,49,25,39,Mobile,0
+STU-00231,College Year 2,Web Development,36,68,32,17,40,87.5,26.2,4,42,30,7,Mobile,0
+STU-00232,Grade 9,Design Thinking,26,42,16,9,40,15.0,10.5,4,74,25,73,Mobile,1
+STU-00233,College Year 1,Chemistry,45,64,19,27,40,10.0,21.3,4,62,14,27,Mobile,0
+STU-00234,Grade 6,Physics,71,100,29,24,40,82.5,41.6,6,67,24,34,Desktop,0
+STU-00235,Grade 7,Physics,53,77,24,14,40,50.0,34.3,5,94,13,72,Mobile,0
+STU-00236,Grade 8,Python Programming,66,87,21,38,40,45.0,41.4,1,48,23,48,Mobile,0
+STU-00237,College Year 1,Mathematics,67,69,2,19,40,45.0,37.7,1,57,16,60,Desktop,0
+STU-00238,College Year 2,Mathematics,40,52,12,34,40,80.0,33.2,2,93,17,52,Tablet,0
+STU-00239,Grade 10,Web Development,49,51,2,9,40,92.5,37.6,4,67,2,9,Mobile,0
+STU-00240,Professional,Python Programming,40,42,2,6,40,95.0,37.6,3,86,22,15,Tablet,0
+STU-00241,Grade 10,Finance,50,58,8,15,40,97.5,12.4,6,93,13,10,Tablet,0
+STU-00242,Grade 8,Digital Marketing,31,39,8,8,40,42.5,30.4,3,72,3,51,Tablet,1
+STU-00243,Professional,Digital Marketing,32,57,25,12,40,22.5,13.8,6,78,10,21,Mobile,0
+STU-00244,Grade 7,Design Thinking,66,75,9,3,40,40.0,44.3,5,44,10,36,Tablet,0
+STU-00245,Professional,Data Science,41,73,32,32,40,60.0,25.6,3,53,30,62,Desktop,0
+STU-00246,Grade 9,Data Science,57,85,28,16,40,27.5,41.6,5,94,13,34,Mobile,0
+STU-00247,Grade 9,English Grammar,53,53,0,14,40,85.0,30.7,6,40,27,57,Tablet,0
+STU-00248,Grade 6,Finance,34,32,-2,23,40,95.0,30.6,1,76,13,68,Desktop,0
+STU-00249,Grade 7,Physics,25,58,33,12,40,97.5,27.7,3,75,29,55,Mobile,0
+STU-00250,College Year 1,Physics,75,70,-5,19,40,15.0,43.0,5,59,26,42,Mobile,0
+STU-00251,Professional,Data Science,52,52,0,13,40,82.5,20.5,5,60,24,58,Mobile,0
+STU-00252,Grade 8,Web Development,35,43,8,33,40,80.0,25.1,6,64,25,68,Desktop,1
+STU-00253,Grade 10,Web Development,35,39,4,16,40,85.0,9.0,2,72,7,10,Desktop,1
+STU-00254,College Year 2,Python Programming,46,71,25,14,40,85.0,12.4,5,80,4,78,Mobile,0
+STU-00255,Grade 9,Data Science,60,75,15,5,40,17.5,8.5,1,77,22,6,Desktop,0
+STU-00256,College Year 2,Physics,50,45,-5,11,40,25.0,39.5,1,47,13,42,Mobile,1
+STU-00257,Professional,Finance,32,40,8,10,40,70.0,30.4,2,86,4,52,Mobile,1
+STU-00258,Professional,Finance,60,78,18,26,40,77.5,23.3,1,74,10,48,Mobile,0
+STU-00259,Grade 6,Finance,63,65,2,32,40,10.0,15.8,3,88,21,20,Tablet,0
+STU-00260,Grade 10,Finance,41,42,1,33,40,72.5,36.7,6,80,12,14,Mobile,1
+STU-00261,College Year 1,Physics,26,35,9,25,40,60.0,24.1,1,75,16,69,Mobile,0
+STU-00262,Grade 10,Python Programming,50,70,20,21,40,27.5,9.8,4,61,3,18,Tablet,0
+STU-00263,Grade 7,Web Development,44,65,21,10,40,22.5,13.4,4,89,12,68,Tablet,0
+STU-00264,Grade 8,Web Development,38,65,27,35,40,45.0,37.3,2,57,10,10,Desktop,0
+STU-00265,Professional,Web Development,59,68,9,9,40,47.5,44.6,1,95,4,70,Desktop,0
+STU-00266,Grade 7,Python Programming,35,43,8,3,40,92.5,41.0,2,52,30,40,Mobile,0
+STU-00267,College Year 1,Data Science,58,75,17,9,40,77.5,40.9,1,83,25,51,Mobile,0
+STU-00268,Grade 7,English Grammar,27,39,12,8,40,72.5,20.0,5,75,21,20,Desktop,1
+STU-00269,College Year 1,Web Development,43,40,-3,30,40,60.0,30.5,3,65,9,55,Mobile,1
+STU-00270,College Year 2,Chemistry,46,53,7,19,40,75.0,16.0,3,93,4,70,Desktop,0
+STU-00271,Grade 7,English Grammar,62,66,4,9,40,90.0,26.0,6,69,1,13,Mobile,0
+STU-00272,Professional,Finance,72,100,28,19,40,87.5,11.8,2,43,5,63,Tablet,0
+STU-00273,College Year 2,Data Science,44,51,7,23,40,12.5,11.8,6,90,9,53,Tablet,0
+STU-00274,College Year 2,Data Science,55,61,6,20,40,10.0,35.2,5,79,24,70,Desktop,0
+STU-00275,Grade 6,Mathematics,43,63,20,32,40,42.5,34.6,2,73,5,40,Mobile,0
+STU-00276,Grade 7,Digital Marketing,46,56,10,31,40,50.0,27.3,6,65,24,41,Mobile,0
+STU-00277,Grade 6,Physics,26,61,35,19,40,97.5,41.4,2,76,15,70,Desktop,0
+STU-00278,Grade 9,Mathematics,28,29,1,13,40,40.0,43.2,2,70,18,62,Mobile,1
+STU-00279,Grade 8,English Grammar,42,58,16,29,40,65.0,21.9,1,73,11,17,Mobile,0
+STU-00280,College Year 1,Finance,61,86,25,35,40,90.0,21.8,1,87,9,26,Mobile,0
+STU-00281,College Year 1,Design Thinking,49,55,6,17,40,25.0,13.1,2,41,19,37,Mobile,0
+STU-00282,Grade 8,Web Development,32,60,28,22,40,100.0,41.5,3,93,20,28,Desktop,0
+STU-00283,Grade 8,Web Development,67,70,3,40,40,92.5,28.8,5,47,9,56,Desktop,0
+STU-00284,Grade 9,Chemistry,74,82,8,18,40,50.0,30.2,3,67,11,27,Mobile,0
+STU-00285,Professional,Data Science,72,86,14,8,40,20.0,26.0,5,65,4,45,Tablet,0
+STU-00286,Grade 6,Design Thinking,36,48,12,20,40,65.0,30.5,4,82,24,6,Mobile,0
+STU-00287,Grade 10,Python Programming,64,89,25,13,40,27.5,10.5,4,95,22,26,Desktop,0
+STU-00288,College Year 1,Physics,49,74,25,16,40,57.5,33.8,4,65,29,18,Tablet,0
+STU-00289,College Year 1,Python Programming,74,85,11,5,40,72.5,11.0,4,56,15,71,Mobile,0
+STU-00290,College Year 2,English Grammar,34,35,1,27,40,57.5,36.8,6,100,20,13,Mobile,1
+STU-00291,College Year 2,Mathematics,71,73,2,16,40,67.5,39.8,5,78,18,48,Tablet,0
+STU-00292,College Year 1,Mathematics,48,44,-4,32,40,65.0,16.7,5,43,22,42,Tablet,0
+STU-00293,College Year 2,Mathematics,58,74,16,25,40,52.5,30.7,3,72,21,61,Tablet,0
+STU-00294,Grade 7,Design Thinking,56,70,14,17,40,67.5,31.7,1,76,16,67,Mobile,0
+STU-00295,Professional,Finance,25,54,29,27,40,75.0,31.3,4,60,18,69,Desktop,0
+STU-00296,Grade 8,Physics,42,42,0,16,40,20.0,15.0,4,48,19,54,Desktop,1
+STU-00297,College Year 1,Physics,46,57,11,21,40,90.0,45.0,4,75,21,74,Desktop,0
+STU-00298,Grade 6,Digital Marketing,43,52,9,9,40,22.5,27.4,5,78,9,15,Desktop,0
+STU-00299,Grade 7,Data Science,68,94,26,34,40,10.0,10.4,3,69,18,59,Mobile,0
+STU-00300,College Year 1,Mathematics,60,69,9,19,40,47.5,10.0,5,87,11,27,Tablet,0
+STU-00301,Grade 6,English Grammar,57,84,27,9,40,85.0,30.4,1,92,17,30,Tablet,0
+STU-00302,Grade 8,Digital Marketing,54,50,-4,22,40,60.0,26.3,1,69,20,38,Desktop,0
+STU-00303,Grade 8,Physics,60,88,28,26,40,92.5,26.7,2,60,15,24,Desktop,0
+STU-00304,Professional,Digital Marketing,74,94,20,9,40,37.5,30.6,6,49,24,53,Mobile,0
+STU-00305,Grade 6,Python Programming,41,51,10,9,40,17.5,27.3,6,40,10,6,Tablet,0
+STU-00306,Grade 8,Design Thinking,56,53,-3,18,40,50.0,24.0,3,58,6,48,Tablet,0
+STU-00307,College Year 2,Physics,40,61,21,34,40,65.0,23.9,2,47,30,39,Tablet,0
+STU-00308,Grade 10,Mathematics,33,50,17,14,40,70.0,29.0,2,84,27,20,Desktop,0
+STU-00309,Grade 6,Mathematics,70,65,-5,31,40,12.5,11.8,3,44,22,5,Desktop,0
+STU-00310,Grade 7,Chemistry,73,91,18,39,40,82.5,36.6,6,71,13,30,Mobile,0
+STU-00311,College Year 1,Finance,74,99,25,6,40,17.5,35.9,6,61,30,76,Tablet,0
+STU-00312,Professional,Design Thinking,59,57,-2,34,40,87.5,26.0,3,48,23,57,Desktop,0
+STU-00313,Professional,Digital Marketing,58,68,10,34,40,65.0,23.9,2,75,8,7,Mobile,0
+STU-00314,College Year 2,Design Thinking,31,66,35,30,40,67.5,26.8,3,99,29,6,Mobile,0
+STU-00315,Grade 9,Chemistry,25,32,7,26,40,27.5,14.6,1,47,27,42,Desktop,1
+STU-00316,Grade 9,Chemistry,35,39,4,5,40,35.0,22.4,3,53,19,73,Tablet,1
+STU-00317,Grade 8,Physics,44,49,5,38,40,45.0,34.8,1,90,5,45,Mobile,1
+STU-00318,Grade 9,Physics,55,52,-3,36,40,52.5,28.5,3,73,0,62,Tablet,0
+STU-00319,College Year 2,Digital Marketing,46,50,4,5,40,17.5,22.8,1,56,26,58,Tablet,0
+STU-00320,Grade 10,Finance,58,77,19,32,40,35.0,25.8,4,100,7,42,Mobile,0
+STU-00321,Grade 8,Design Thinking,61,59,-2,13,40,97.5,19.1,1,86,18,54,Desktop,0
+STU-00322,Grade 10,Web Development,50,54,4,23,40,62.5,39.3,5,82,9,65,Mobile,0
+STU-00323,Grade 9,Python Programming,55,81,26,28,40,75.0,30.7,5,70,12,59,Mobile,0
+STU-00324,Grade 10,Design Thinking,64,73,9,13,40,52.5,29.0,5,87,7,72,Mobile,0
+STU-00325,Grade 10,Design Thinking,32,52,20,20,40,52.5,11.9,5,99,19,47,Mobile,0
+STU-00326,Grade 6,Digital Marketing,31,27,-4,21,40,85.0,41.6,1,65,24,44,Desktop,1
+STU-00327,Grade 8,Mathematics,46,41,-5,23,40,15.0,36.8,4,92,10,66,Desktop,1
+STU-00328,Grade 10,Python Programming,71,72,1,4,40,72.5,38.0,1,98,18,73,Mobile,0
+STU-00329,College Year 1,Chemistry,73,91,18,29,40,57.5,34.9,1,95,1,22,Mobile,0
+STU-00330,Professional,Data Science,64,86,22,33,40,47.5,8.7,3,89,17,31,Tablet,0
+STU-00331,Grade 7,Chemistry,65,69,4,23,40,87.5,16.8,6,92,19,75,Mobile,0
+STU-00332,Professional,Design Thinking,47,44,-3,40,40,57.5,32.8,2,80,10,28,Mobile,1
+STU-00333,Professional,Physics,66,63,-3,16,40,25.0,29.9,3,89,0,18,Tablet,0
+STU-00334,Professional,Digital Marketing,25,44,19,13,40,97.5,20.5,1,82,28,75,Mobile,1
+STU-00335,Grade 7,Web Development,47,43,-4,4,40,47.5,30.8,1,56,1,58,Desktop,1
+STU-00336,Professional,English Grammar,54,83,29,3,40,45.0,14.1,1,93,20,7,Tablet,0
+STU-00337,Grade 10,English Grammar,31,43,12,25,40,62.5,38.6,5,92,24,9,Mobile,1
+STU-00338,Grade 7,Digital Marketing,43,75,32,13,40,35.0,14.8,3,81,6,63,Tablet,0
+STU-00339,Grade 7,Finance,38,43,5,19,40,82.5,21.6,1,66,18,38,Mobile,1
+STU-00340,Professional,English Grammar,56,61,5,30,40,30.0,25.1,1,67,16,35,Mobile,0
+STU-00341,Professional,Digital Marketing,26,22,-4,15,40,37.5,40.2,6,62,8,65,Desktop,1
+STU-00342,Grade 8,Physics,57,87,30,38,40,40.0,17.2,6,100,10,32,Tablet,0
+STU-00343,Professional,Mathematics,52,62,10,16,40,100.0,29.6,3,85,17,18,Desktop,0
+STU-00344,Grade 10,Chemistry,69,75,6,22,40,70.0,14.3,3,73,17,56,Mobile,0
+STU-00345,Grade 8,Python Programming,47,44,-3,13,40,25.0,22.6,6,62,30,65,Desktop,0
+STU-00346,College Year 2,Physics,56,51,-5,8,40,80.0,35.9,3,77,10,5,Tablet,0
+STU-00347,College Year 2,Finance,60,67,7,34,40,80.0,40.9,1,77,26,48,Desktop,0
+STU-00348,Grade 6,Design Thinking,54,66,12,37,40,7.5,9.7,3,80,28,32,Mobile,0
+STU-00349,Professional,Web Development,25,35,10,28,40,90.0,32.8,4,68,11,17,Mobile,1
+STU-00350,College Year 1,English Grammar,45,47,2,34,40,7.5,14.7,4,52,2,24,Mobile,0
+STU-00351,College Year 1,Mathematics,63,86,23,35,40,12.5,44.0,4,60,19,76,Mobile,0
+STU-00352,Grade 9,Python Programming,54,49,-5,8,40,37.5,40.3,4,80,8,69,Tablet,0
+STU-00353,Grade 9,Digital Marketing,41,44,3,10,40,90.0,36.3,4,76,5,50,Mobile,1
+STU-00354,College Year 2,Mathematics,58,84,26,33,40,30.0,18.3,5,99,8,49,Mobile,0
+STU-00355,Grade 8,English Grammar,66,74,8,23,40,52.5,26.8,3,64,12,47,Tablet,0
+STU-00356,Professional,Design Thinking,60,95,35,22,40,17.5,12.0,4,68,7,70,Tablet,0
+STU-00357,Grade 9,Physics,61,83,22,32,40,15.0,42.2,6,75,27,57,Mobile,0
+STU-00358,Grade 8,Digital Marketing,26,51,25,14,40,62.5,41.3,1,64,0,49,Tablet,0
+STU-00359,Professional,Web Development,31,52,21,15,40,7.5,39.1,3,69,3,27,Desktop,0
+STU-00360,Grade 10,Design Thinking,54,51,-3,37,40,20.0,35.9,6,60,2,51,Tablet,0
+STU-00361,Grade 7,Data Science,47,75,28,6,40,70.0,31.6,4,87,11,56,Mobile,0
+STU-00362,Professional,Data Science,62,59,-3,35,40,87.5,23.5,1,44,28,61,Desktop,0
+STU-00363,College Year 2,Finance,68,88,20,32,40,65.0,43.2,6,46,20,80,Mobile,0
+STU-00364,Grade 6,Finance,66,78,12,19,40,52.5,31.2,2,55,1,67,Desktop,0
+STU-00365,Grade 6,Finance,44,47,3,8,40,90.0,41.3,4,89,3,13,Desktop,0
+STU-00366,College Year 2,Python Programming,33,65,32,17,40,72.5,39.5,3,50,6,31,Tablet,0
+STU-00367,Grade 9,Finance,48,78,30,40,40,90.0,44.0,1,91,10,19,Mobile,0
+STU-00368,Grade 10,Digital Marketing,54,82,28,11,40,62.5,31.2,6,66,11,32,Tablet,0
+STU-00369,Professional,Chemistry,61,61,0,25,40,22.5,34.1,2,71,3,19,Tablet,0
+STU-00370,Professional,Physics,52,85,33,28,40,62.5,11.0,4,72,15,70,Mobile,0
+STU-00371,Grade 6,Chemistry,45,54,9,22,40,30.0,42.9,4,88,20,25,Mobile,0
+STU-00372,Grade 9,Mathematics,40,61,21,11,40,77.5,16.7,4,85,5,8,Mobile,0
+STU-00373,Grade 10,Finance,32,65,33,34,40,100.0,37.0,1,40,1,19,Mobile,0
+STU-00374,Grade 6,Design Thinking,33,48,15,13,40,50.0,40.1,2,56,20,17,Desktop,0
+STU-00375,Grade 9,Web Development,33,60,27,25,40,52.5,22.4,3,60,20,26,Tablet,0
+STU-00376,Professional,Physics,62,90,28,16,40,57.5,16.0,2,56,26,6,Mobile,0
+STU-00377,Grade 8,Data Science,27,40,13,39,40,65.0,43.3,1,79,9,6,Mobile,1
+STU-00378,College Year 2,Data Science,58,84,26,8,40,75.0,18.8,2,86,17,27,Tablet,0
+STU-00379,College Year 1,Mathematics,57,61,4,39,40,92.5,9.6,6,80,14,78,Desktop,0
+STU-00380,Grade 7,Web Development,69,100,31,14,40,75.0,31.9,1,62,8,17,Mobile,0
+STU-00381,Grade 10,Python Programming,55,64,9,18,40,60.0,9.4,5,70,24,18,Mobile,0
+STU-00382,Grade 8,Mathematics,30,61,31,34,40,12.5,12.1,6,92,17,29,Mobile,0
+STU-00383,College Year 1,English Grammar,28,56,28,10,40,57.5,12.1,1,73,17,16,Mobile,0
+STU-00384,Grade 7,Design Thinking,72,72,0,16,40,77.5,15.0,1,55,6,6,Tablet,0
+STU-00385,Grade 6,Digital Marketing,44,51,7,18,40,62.5,20.3,3,80,16,79,Mobile,0
+STU-00386,Grade 10,English Grammar,25,54,29,34,40,87.5,19.8,6,91,9,13,Mobile,0
+STU-00387,Grade 6,Physics,43,71,28,14,40,10.0,32.1,4,65,22,75,Mobile,0
+STU-00388,Grade 9,Python Programming,60,85,25,23,40,87.5,10.6,3,99,7,24,Tablet,0
+STU-00389,Grade 8,Web Development,53,81,28,34,40,95.0,28.6,5,48,3,60,Desktop,0
+STU-00390,Professional,Design Thinking,44,61,17,38,40,100.0,23.5,4,43,28,35,Tablet,0
+STU-00391,College Year 2,Web Development,41,63,22,34,40,60.0,25.1,5,58,11,49,Tablet,0
+STU-00392,College Year 2,English Grammar,44,58,14,37,40,52.5,32.6,4,84,24,69,Tablet,0
+STU-00393,Grade 8,Python Programming,63,60,-3,19,40,45.0,44.3,4,64,8,67,Tablet,0
+STU-00394,Grade 7,Python Programming,58,62,4,25,40,57.5,27.0,3,67,13,58,Mobile,0
+STU-00395,Grade 8,Web Development,45,78,33,31,40,95.0,44.4,3,60,0,18,Tablet,0
+STU-00396,Grade 6,Web Development,44,53,9,23,40,37.5,24.4,6,61,18,21,Mobile,0
+STU-00397,Grade 8,Digital Marketing,32,55,23,39,40,32.5,13.6,3,51,30,58,Mobile,0
+STU-00398,College Year 2,Design Thinking,71,99,28,9,40,32.5,13.8,6,80,20,7,Mobile,0
+STU-00399,College Year 2,Mathematics,50,72,22,32,40,82.5,15.5,3,75,24,42,Mobile,0
+STU-00400,Grade 10,Digital Marketing,37,38,1,40,40,92.5,12.2,6,78,0,75,Mobile,1
+STU-00401,Grade 10,Chemistry,48,58,10,40,40,40.0,12.5,4,52,22,25,Tablet,0
+STU-00402,Grade 9,English Grammar,45,62,17,3,40,40.0,18.9,4,63,15,13,Mobile,0
+STU-00403,College Year 1,Python Programming,46,51,5,33,40,92.5,30.1,3,41,27,21,Mobile,0
+STU-00404,College Year 1,Mathematics,62,66,4,6,40,35.0,21.2,5,84,8,27,Mobile,0
+STU-00405,Grade 6,Data Science,66,85,19,5,40,20.0,32.7,4,54,18,39,Mobile,0
+STU-00406,Grade 9,Web Development,52,78,26,39,40,70.0,37.3,1,56,16,28,Mobile,0
+STU-00407,Grade 6,Design Thinking,47,70,23,28,40,25.0,8.5,1,59,24,5,Tablet,0
+STU-00408,Grade 7,English Grammar,42,65,23,29,40,35.0,8.4,5,97,30,51,Tablet,0
+STU-00409,College Year 2,Finance,46,81,35,40,40,60.0,21.3,2,88,30,71,Mobile,0
+STU-00410,Grade 10,Finance,71,76,5,32,40,22.5,43.7,4,85,26,21,Mobile,0
+STU-00411,College Year 2,Python Programming,41,49,8,10,40,77.5,36.3,3,59,0,21,Desktop,1
+STU-00412,Grade 10,Physics,48,63,15,19,40,37.5,23.5,4,92,4,13,Tablet,0
+STU-00413,College Year 1,Web Development,41,54,13,19,40,45.0,37.6,4,44,22,7,Mobile,0
+STU-00414,Grade 9,Python Programming,46,47,1,34,40,80.0,43.6,5,47,3,33,Mobile,0
+STU-00415,Grade 9,Finance,64,63,-1,38,40,70.0,37.4,5,99,16,10,Mobile,0
+STU-00416,Grade 6,Digital Marketing,33,28,-5,9,40,82.5,23.0,4,70,6,79,Mobile,1
+STU-00417,College Year 1,Physics,56,73,17,21,40,35.0,41.7,6,86,20,47,Mobile,0
+STU-00418,Professional,Mathematics,71,95,24,38,40,20.0,35.4,2,77,20,73,Mobile,0
+STU-00419,College Year 2,Mathematics,64,94,30,39,40,65.0,26.1,3,51,10,26,Desktop,0
+STU-00420,Grade 8,Finance,69,99,30,9,40,80.0,36.7,6,84,19,80,Mobile,0
+STU-00421,Grade 8,Digital Marketing,57,75,18,25,40,47.5,33.4,4,82,25,8,Desktop,0
+STU-00422,Grade 7,Physics,45,43,-2,3,40,62.5,19.4,1,80,22,70,Mobile,1
+STU-00423,College Year 1,Chemistry,71,100,29,30,40,100.0,35.7,6,56,23,51,Mobile,0
+STU-00424,Grade 6,Chemistry,27,23,-4,4,40,7.5,23.7,1,98,18,77,Mobile,1
+STU-00425,Grade 8,English Grammar,55,88,33,28,40,35.0,25.3,6,61,23,47,Tablet,0
+STU-00426,Professional,Web Development,65,88,23,31,40,80.0,40.0,1,71,15,29,Mobile,0
+STU-00427,Grade 6,Finance,48,73,25,13,40,42.5,11.3,4,94,10,7,Mobile,0
+STU-00428,Grade 8,Python Programming,34,30,-4,34,40,97.5,38.3,5,95,3,17,Tablet,1
+STU-00429,Grade 6,Web Development,29,62,33,6,40,32.5,14.7,5,89,18,33,Mobile,0
+STU-00430,College Year 2,Web Development,47,70,23,27,40,20.0,32.6,2,81,7,41,Mobile,0
+STU-00431,Professional,Design Thinking,46,79,33,24,40,15.0,10.6,5,66,6,14,Desktop,0
+STU-00432,Grade 8,Physics,31,47,16,18,40,65.0,21.6,2,46,8,73,Mobile,0
+STU-00433,Professional,Finance,61,78,17,35,40,22.5,15.8,1,93,5,20,Desktop,0
+STU-00434,College Year 2,Python Programming,27,53,26,15,40,42.5,35.4,5,100,21,7,Tablet,0
+STU-00435,Grade 8,Python Programming,36,66,30,13,40,85.0,15.8,6,55,26,16,Desktop,0
+STU-00436,Grade 10,Data Science,33,33,0,20,40,7.5,39.6,1,41,11,40,Desktop,0
+STU-00437,Grade 7,Mathematics,62,87,25,36,40,40.0,22.1,2,67,20,73,Mobile,0
+STU-00438,Grade 6,Chemistry,28,39,11,4,40,77.5,29.7,2,90,22,76,Desktop,0
+STU-00439,Grade 9,Python Programming,68,95,27,8,40,12.5,36.0,2,73,28,63,Mobile,0
+STU-00440,College Year 2,Mathematics,37,37,0,28,40,55.0,44.7,6,55,6,16,Mobile,1
+STU-00441,Professional,Digital Marketing,63,85,22,37,40,42.5,28.0,4,77,28,29,Mobile,0
+STU-00442,College Year 2,Digital Marketing,48,65,17,5,40,85.0,40.7,5,64,20,30,Mobile,0
+STU-00443,Grade 9,Physics,33,32,-1,18,40,12.5,44.7,5,58,3,16,Tablet,1
+STU-00444,Grade 10,Web Development,73,100,27,40,40,92.5,29.2,1,56,22,24,Tablet,0
+STU-00445,Grade 9,Python Programming,35,41,6,30,40,27.5,13.1,4,64,22,40,Desktop,1
+STU-00446,Professional,Data Science,54,84,30,16,40,37.5,22.3,2,63,20,56,Mobile,0
+STU-00447,Grade 7,Digital Marketing,43,65,22,8,40,80.0,25.9,1,96,6,22,Tablet,0
+STU-00448,College Year 2,Finance,43,64,21,23,40,50.0,12.6,5,43,25,22,Mobile,0
+STU-00449,Professional,Physics,28,55,27,27,40,97.5,19.5,3,82,2,78,Tablet,0
+STU-00450,College Year 2,Physics,29,29,0,25,40,100.0,14.3,4,67,17,15,Mobile,1
+STU-00451,Grade 10,Finance,34,30,-4,29,40,25.0,13.4,3,67,30,76,Mobile,1
+STU-00452,Professional,English Grammar,45,45,0,39,40,92.5,10.1,1,45,16,12,Mobile,1
+STU-00453,Grade 7,Design Thinking,56,61,5,24,40,15.0,40.3,2,40,13,15,Mobile,0
+STU-00454,Grade 6,Python Programming,54,60,6,29,40,95.0,13.7,2,87,1,57,Mobile,0
+STU-00455,Grade 8,Python Programming,53,87,34,21,40,95.0,41.2,1,44,24,54,Tablet,0
+STU-00456,College Year 2,Python Programming,30,65,35,7,40,15.0,34.4,2,83,3,39,Desktop,0
+STU-00457,Grade 10,Data Science,39,34,-5,15,40,42.5,8.1,3,66,8,78,Mobile,1
+STU-00458,Professional,Finance,53,79,26,6,40,75.0,35.9,5,50,26,18,Mobile,0
+STU-00459,Grade 6,English Grammar,47,79,32,19,40,27.5,20.4,3,40,24,22,Mobile,0
+STU-00460,Grade 6,English Grammar,53,61,8,3,40,12.5,19.3,4,73,25,27,Mobile,0
+STU-00461,College Year 2,English Grammar,71,72,1,23,40,42.5,22.3,4,89,25,59,Tablet,0
+STU-00462,Grade 8,Data Science,43,75,32,24,40,87.5,25.9,3,52,21,43,Tablet,0
+STU-00463,College Year 2,Data Science,67,86,19,18,40,80.0,43.5,6,80,4,6,Mobile,0
+STU-00464,Grade 6,Mathematics,54,67,13,36,40,22.5,29.6,3,85,26,45,Tablet,0
+STU-00465,Grade 9,Data Science,32,32,0,35,40,100.0,11.2,2,75,25,75,Mobile,1
+STU-00466,Professional,English Grammar,55,65,10,13,40,60.0,42.4,4,99,14,36,Desktop,0
+STU-00467,Grade 10,Python Programming,68,100,32,18,40,97.5,38.5,5,60,25,49,Mobile,0
+STU-00468,Grade 10,Mathematics,54,63,9,25,40,35.0,37.3,2,68,26,28,Mobile,0
+STU-00469,Grade 10,Chemistry,67,76,9,12,40,7.5,25.5,3,89,18,61,Tablet,0
+STU-00470,College Year 1,English Grammar,71,100,29,17,40,30.0,16.5,2,54,12,18,Mobile,0
+STU-00471,Grade 8,Mathematics,54,68,14,6,40,90.0,36.7,5,91,29,11,Mobile,0
+STU-00472,Grade 9,Chemistry,47,60,13,11,40,60.0,41.5,2,74,13,77,Desktop,0
+STU-00473,Grade 8,Mathematics,64,92,28,26,40,47.5,9.2,6,86,0,72,Desktop,0
+STU-00474,Grade 7,Physics,42,43,1,20,40,60.0,24.8,2,67,3,55,Mobile,1
+STU-00475,Grade 10,Chemistry,67,66,-1,11,40,95.0,39.0,1,73,21,23,Tablet,0
+STU-00476,College Year 2,Digital Marketing,61,56,-5,7,40,75.0,26.4,4,76,4,72,Mobile,0
+STU-00477,Grade 7,Python Programming,26,29,3,28,40,77.5,17.7,4,71,13,72,Tablet,1
+STU-00478,Grade 7,Design Thinking,47,59,12,17,40,77.5,35.1,6,58,6,60,Tablet,0
+STU-00479,Grade 6,Mathematics,41,49,8,19,40,65.0,19.9,4,99,13,46,Mobile,1
+STU-00480,College Year 1,Chemistry,53,50,-3,4,40,75.0,18.0,3,73,8,17,Tablet,0
+STU-00481,Grade 7,Design Thinking,55,66,11,24,40,57.5,15.3,1,94,23,33,Desktop,0
+STU-00482,Grade 8,Digital Marketing,50,71,21,35,40,30.0,40.9,1,96,17,14,Mobile,0
+STU-00483,Grade 7,Web Development,75,100,25,26,40,67.5,43.0,6,72,13,14,Mobile,0
+STU-00484,Grade 7,Python Programming,59,92,33,16,40,35.0,33.0,4,81,17,24,Tablet,0
+STU-00485,Grade 7,Web Development,26,24,-2,15,40,22.5,26.0,2,82,12,54,Tablet,1
+STU-00486,Grade 6,Web Development,30,38,8,14,40,72.5,23.1,3,92,8,21,Desktop,1
+STU-00487,Grade 6,English Grammar,74,81,7,35,40,72.5,27.4,3,87,21,32,Mobile,0
+STU-00488,Grade 6,Python Programming,30,52,22,25,40,65.0,44.2,1,82,12,44,Mobile,0
+STU-00489,Grade 10,English Grammar,42,74,32,36,40,92.5,41.7,5,77,21,76,Mobile,0
+STU-00490,Grade 10,Data Science,61,96,35,18,40,50.0,33.3,2,100,18,78,Mobile,0
+STU-00491,Professional,Web Development,49,83,34,14,40,32.5,44.2,5,94,23,69,Tablet,0
+STU-00492,College Year 2,Digital Marketing,66,84,18,39,40,37.5,14.7,2,92,21,69,Mobile,0
+STU-00493,Grade 9,English Grammar,63,80,17,13,40,32.5,10.8,5,77,24,23,Mobile,0
+STU-00494,Professional,Physics,47,75,28,25,40,67.5,23.5,2,76,14,36,Mobile,0
+STU-00495,Grade 8,Design Thinking,25,20,-5,20,40,85.0,29.7,3,51,24,22,Tablet,1
+STU-00496,Grade 7,Chemistry,46,70,24,33,40,87.5,9.1,4,86,23,38,Mobile,0
+STU-00497,Grade 10,Digital Marketing,43,59,16,40,40,27.5,38.2,6,94,15,25,Tablet,0
+STU-00498,Professional,Web Development,68,93,25,32,40,60.0,13.6,5,90,13,15,Mobile,0
+STU-00499,Grade 6,Data Science,53,66,13,3,40,52.5,33.9,5,55,27,21,Desktop,0
+STU-00500,Grade 10,Chemistry,55,78,23,24,40,97.5,39.5,5,61,9,72,Mobile,0
+STU-00501,Professional,Chemistry,46,63,17,17,40,72.5,41.9,4,59,15,71,Desktop,0
+STU-00502,Grade 9,Finance,55,57,2,34,40,35.0,37.2,4,98,23,50,Desktop,0
+STU-00503,Grade 10,English Grammar,67,68,1,14,40,27.5,12.7,3,86,19,35,Tablet,0
+STU-00504,Grade 7,Physics,51,61,10,11,40,70.0,31.3,1,83,20,37,Mobile,0
+STU-00505,Grade 6,Python Programming,52,49,-3,16,40,7.5,10.1,2,45,22,33,Mobile,0
+STU-00506,Grade 9,English Grammar,27,26,-1,34,40,77.5,27.8,5,46,23,59,Mobile,0
+STU-00507,Grade 7,Design Thinking,33,37,4,11,40,67.5,25.1,6,75,0,45,Mobile,1
+STU-00508,Grade 6,Finance,47,63,16,12,40,12.5,14.1,1,83,6,49,Tablet,0
+STU-00509,College Year 1,Physics,72,82,10,31,40,45.0,32.7,5,74,19,34,Mobile,0
+STU-00510,Grade 6,English Grammar,63,68,5,35,40,82.5,12.9,4,44,29,15,Tablet,0
+STU-00511,College Year 1,Digital Marketing,31,43,12,13,40,25.0,31.2,1,97,8,37,Mobile,1
+STU-00512,College Year 2,Data Science,58,58,0,31,40,20.0,9.0,5,79,11,50,Mobile,0
+STU-00513,Grade 6,Chemistry,45,80,35,6,40,87.5,18.2,6,88,27,44,Tablet,0
+STU-00514,Grade 10,Finance,63,85,22,15,40,72.5,20.5,4,72,0,35,Desktop,0
+STU-00515,Grade 7,Physics,64,65,1,9,40,17.5,19.4,6,84,30,47,Desktop,0
+STU-00516,Grade 10,Mathematics,72,78,6,29,40,32.5,15.9,4,46,23,42,Desktop,0
+STU-00517,Grade 10,Finance,68,83,15,31,40,50.0,19.9,4,47,10,42,Tablet,0
+STU-00518,Grade 7,Finance,61,73,12,10,40,90.0,27.5,1,64,29,60,Desktop,0
+STU-00519,Professional,Python Programming,75,81,6,4,40,72.5,8.9,3,82,7,73,Desktop,0
+STU-00520,Grade 7,Finance,50,69,19,6,40,12.5,20.0,3,64,0,36,Tablet,0
+STU-00521,Grade 7,Chemistry,56,89,33,15,40,32.5,20.9,4,51,4,54,Tablet,0
+STU-00522,Grade 6,Web Development,25,27,2,32,40,82.5,40.8,3,94,4,60,Desktop,1
+STU-00523,College Year 2,Digital Marketing,38,37,-1,6,40,15.0,34.4,5,68,20,60,Tablet,0
+STU-00524,College Year 1,Design Thinking,63,90,27,37,40,72.5,11.1,6,76,20,45,Mobile,0
+STU-00525,Grade 10,Physics,32,55,23,31,40,85.0,21.0,1,97,29,31,Desktop,0
+STU-00526,Grade 8,Finance,31,29,-2,14,40,95.0,44.9,5,79,16,60,Tablet,1
+STU-00527,Grade 7,Physics,49,75,26,35,40,77.5,39.6,1,83,15,52,Mobile,0
+STU-00528,Grade 7,Chemistry,43,52,9,4,40,32.5,8.3,5,56,10,22,Desktop,0
+STU-00529,Grade 8,Mathematics,43,59,16,21,40,62.5,21.0,3,80,14,29,Tablet,0
+STU-00530,Grade 6,Finance,34,37,3,40,40,25.0,19.4,6,92,29,18,Mobile,1
+STU-00531,Grade 7,Digital Marketing,25,27,2,12,40,95.0,15.0,3,99,6,52,Mobile,0
+STU-00532,Professional,English Grammar,32,44,12,14,40,12.5,16.2,6,72,25,25,Mobile,1
+STU-00533,Grade 10,Data Science,61,77,16,18,40,80.0,21.9,6,64,16,20,Mobile,0
+STU-00534,Grade 8,Finance,42,41,-1,27,40,45.0,17.5,5,82,28,48,Desktop,1
+STU-00535,Grade 6,Design Thinking,37,69,32,11,40,55.0,35.1,3,91,5,34,Mobile,0
+STU-00536,College Year 1,Python Programming,63,94,31,40,40,57.5,15.7,3,42,0,41,Mobile,0
+STU-00537,Grade 9,Chemistry,52,71,19,7,40,65.0,9.5,3,58,24,45,Mobile,0
+STU-00538,College Year 2,Design Thinking,47,79,32,37,40,25.0,11.8,3,40,29,26,Mobile,0
+STU-00539,College Year 1,Physics,30,42,12,6,40,100.0,24.9,6,99,12,8,Desktop,1
+STU-00540,Grade 6,Data Science,69,76,7,36,40,22.5,38.5,4,61,14,23,Desktop,0
+STU-00541,Grade 7,Physics,73,99,26,19,40,90.0,20.5,5,56,8,30,Desktop,0
+STU-00542,Grade 9,Finance,45,71,26,33,40,47.5,35.3,4,92,17,17,Mobile,0
+STU-00543,Grade 10,Python Programming,47,57,10,11,40,42.5,17.2,5,59,4,15,Mobile,0
+STU-00544,Professional,English Grammar,44,79,35,32,40,62.5,9.9,5,55,17,65,Desktop,0
+STU-00545,College Year 2,Chemistry,51,58,7,40,40,60.0,26.1,4,48,1,64,Tablet,0
+STU-00546,Grade 10,Physics,60,93,33,13,40,82.5,35.9,4,70,18,5,Desktop,0
+STU-00547,College Year 2,Chemistry,71,74,3,35,40,10.0,26.8,1,71,20,69,Tablet,0
+STU-00548,Grade 8,Python Programming,61,74,13,5,40,92.5,44.5,4,67,23,23,Desktop,0
+STU-00549,Professional,Data Science,49,50,1,8,40,10.0,29.7,3,69,29,62,Desktop,0
+STU-00550,Professional,Physics,28,41,13,17,40,50.0,38.0,5,60,4,54,Desktop,1
+STU-00551,Grade 6,English Grammar,25,27,2,16,40,32.5,18.7,2,83,17,10,Mobile,1
+STU-00552,Grade 7,Design Thinking,39,62,23,12,40,100.0,11.4,4,44,8,18,Mobile,0
+STU-00553,Grade 6,Data Science,44,55,11,36,40,12.5,16.3,4,83,16,23,Desktop,0
+STU-00554,College Year 1,Web Development,44,66,22,40,40,22.5,9.7,3,77,13,31,Mobile,0
+STU-00555,Grade 10,Physics,75,100,25,14,40,17.5,43.2,5,47,20,38,Tablet,0
+STU-00556,Professional,English Grammar,67,67,0,40,40,35.0,14.8,5,53,13,28,Mobile,0
+STU-00557,Grade 9,Finance,58,85,27,9,40,72.5,12.0,2,46,12,15,Tablet,0
+STU-00558,Professional,Physics,74,100,26,20,40,90.0,16.1,6,53,9,66,Mobile,0
+STU-00559,Grade 8,Digital Marketing,32,59,27,29,40,30.0,14.8,6,84,11,50,Desktop,0
+STU-00560,Grade 9,Data Science,27,45,18,22,40,42.5,30.3,3,78,14,32,Tablet,1
+STU-00561,Professional,Finance,60,83,23,23,40,62.5,28.6,5,58,15,19,Desktop,0
+STU-00562,Grade 8,Digital Marketing,37,71,34,20,40,97.5,44.4,6,54,3,8,Mobile,0
+STU-00563,Grade 9,Finance,38,60,22,9,40,7.5,41.2,1,55,0,24,Mobile,0
+STU-00564,Grade 9,Physics,49,70,21,4,40,72.5,29.4,1,94,16,21,Desktop,0
+STU-00565,Grade 6,Data Science,54,72,18,33,40,35.0,25.1,4,79,1,68,Tablet,0
+STU-00566,Grade 7,Python Programming,53,66,13,14,40,45.0,24.7,3,69,24,52,Tablet,0
+STU-00567,College Year 2,Mathematics,35,63,28,10,40,62.5,14.4,5,79,5,64,Mobile,0
+STU-00568,Grade 10,Python Programming,25,39,14,17,40,37.5,32.5,1,74,26,7,Tablet,0
+STU-00569,College Year 1,Mathematics,42,42,0,33,40,25.0,19.8,6,68,9,38,Tablet,0
+STU-00570,Grade 10,Physics,66,79,13,35,40,10.0,15.3,4,53,13,39,Mobile,0
+STU-00571,Grade 6,Mathematics,45,75,30,38,40,60.0,14.2,4,54,4,21,Tablet,0
+STU-00572,College Year 2,Data Science,25,46,21,39,40,52.5,12.6,5,65,14,75,Tablet,0
+STU-00573,Grade 7,Digital Marketing,32,32,0,4,40,70.0,26.2,3,84,2,62,Desktop,1
+STU-00574,Grade 10,Chemistry,61,95,34,14,40,15.0,35.9,6,61,0,6,Desktop,0
+STU-00575,College Year 2,Data Science,49,49,0,38,40,30.0,27.3,3,58,15,38,Mobile,1
+STU-00576,College Year 1,Digital Marketing,60,86,26,27,40,52.5,44.2,2,95,23,57,Tablet,0
+STU-00577,Grade 9,Digital Marketing,71,81,10,7,40,15.0,29.9,2,44,22,50,Mobile,0
+STU-00578,Professional,English Grammar,45,53,8,33,40,37.5,8.0,5,80,17,45,Tablet,0
+STU-00579,Grade 9,Design Thinking,29,61,32,11,40,52.5,18.5,5,92,16,11,Mobile,0
+STU-00580,College Year 2,Web Development,70,69,-1,12,40,62.5,20.0,3,82,19,6,Desktop,0
+STU-00581,Grade 9,Finance,46,66,20,5,40,47.5,22.3,5,53,3,56,Mobile,0
+STU-00582,Professional,Design Thinking,54,67,13,13,40,72.5,18.9,4,70,4,41,Mobile,0
+STU-00583,Grade 6,Chemistry,75,78,3,39,40,77.5,39.0,2,96,18,62,Mobile,0
+STU-00584,College Year 1,Physics,26,41,15,24,40,22.5,38.4,1,53,8,66,Mobile,0
+STU-00585,Grade 9,English Grammar,56,53,-3,23,40,40.0,27.4,2,75,26,70,Mobile,0
+STU-00586,Grade 8,Chemistry,54,65,11,31,40,80.0,36.9,5,92,24,52,Tablet,0
+STU-00587,Grade 7,Chemistry,32,52,20,24,40,15.0,10.9,2,61,30,64,Mobile,0
+STU-00588,Grade 6,Finance,59,72,13,20,40,82.5,36.8,5,65,5,14,Desktop,0
+STU-00589,College Year 1,Web Development,47,78,31,40,40,20.0,40.8,6,98,22,22,Mobile,0
+STU-00590,Grade 8,Chemistry,45,56,11,13,40,25.0,18.5,3,100,21,28,Mobile,0
+STU-00591,Professional,Data Science,30,59,29,7,40,37.5,15.1,3,42,9,65,Mobile,0
+STU-00592,College Year 1,Design Thinking,48,45,-3,38,40,97.5,27.9,1,95,30,72,Mobile,1
+STU-00593,Grade 6,Finance,64,60,-4,29,40,52.5,12.6,6,97,9,45,Desktop,0
+STU-00594,Grade 8,Web Development,28,54,26,8,40,35.0,41.2,5,76,3,44,Mobile,0
+STU-00595,Professional,Finance,43,77,34,11,40,52.5,26.0,1,52,20,69,Desktop,0
+STU-00596,College Year 2,Python Programming,74,99,25,3,40,7.5,32.3,4,46,12,9,Mobile,0
+STU-00597,Grade 10,Mathematics,25,50,25,29,40,27.5,36.1,2,95,13,72,Desktop,0
+STU-00598,College Year 1,Python Programming,56,82,26,39,40,100.0,26.5,6,42,18,47,Desktop,0
+STU-00599,Grade 9,Python Programming,48,51,3,24,40,22.5,34.4,4,82,24,50,Mobile,0
+STU-00600,Professional,Design Thinking,66,72,6,40,40,22.5,9.9,4,62,15,27,Tablet,0
+STU-00601,College Year 2,Web Development,32,58,26,38,40,80.0,10.4,3,40,21,38,Tablet,0
+STU-00602,Grade 8,Mathematics,36,32,-4,25,40,42.5,11.0,6,69,0,5,Mobile,1
+STU-00603,College Year 2,Chemistry,53,72,19,25,40,12.5,28.4,1,90,10,10,Desktop,0
+STU-00604,Professional,Chemistry,64,95,31,19,40,75.0,28.0,1,69,22,29,Tablet,0
+STU-00605,College Year 2,Digital Marketing,55,65,10,7,40,10.0,19.6,2,58,6,19,Mobile,0
+STU-00606,College Year 2,Python Programming,35,60,25,3,40,27.5,36.5,3,70,20,22,Tablet,0
+STU-00607,Grade 9,Web Development,46,80,34,13,40,67.5,44.0,6,68,5,70,Mobile,0
+STU-00608,Grade 10,Finance,45,79,34,23,40,77.5,36.9,5,60,14,48,Mobile,0
+STU-00609,Grade 8,Mathematics,31,27,-4,26,40,70.0,30.9,6,43,20,50,Desktop,1
+STU-00610,Grade 8,Digital Marketing,51,47,-4,34,40,22.5,15.1,1,43,21,64,Mobile,1
+STU-00611,College Year 2,Finance,46,56,10,38,40,97.5,14.0,5,49,2,56,Tablet,0
+STU-00612,Grade 9,Chemistry,48,75,27,11,40,57.5,19.6,6,69,4,55,Tablet,0
+STU-00613,Grade 9,Python Programming,49,59,10,28,40,52.5,9.8,3,99,4,73,Mobile,0
+STU-00614,Grade 7,Data Science,72,78,6,30,40,15.0,29.2,2,83,10,76,Tablet,0
+STU-00615,College Year 2,Data Science,70,67,-3,20,40,55.0,43.7,4,76,1,27,Mobile,0
+STU-00616,Professional,Data Science,38,58,20,4,40,57.5,16.8,5,83,22,52,Tablet,0
+STU-00617,Professional,English Grammar,53,76,23,16,40,7.5,10.3,6,41,21,61,Mobile,0
+STU-00618,College Year 1,Mathematics,47,67,20,38,40,25.0,40.5,2,77,7,61,Desktop,0
+STU-00619,Grade 10,Python Programming,37,49,12,19,40,90.0,14.0,2,47,28,53,Desktop,0
+STU-00620,Grade 7,Physics,41,36,-5,26,40,35.0,42.8,6,44,21,31,Desktop,1
+STU-00621,Professional,Finance,36,56,20,17,40,35.0,39.1,3,41,29,41,Mobile,0
+STU-00622,College Year 2,Mathematics,52,72,20,37,40,45.0,41.4,4,62,12,43,Desktop,0
+STU-00623,Grade 7,Python Programming,60,63,3,31,40,97.5,18.7,4,57,6,46,Desktop,0
+STU-00624,Grade 8,Python Programming,36,38,2,18,40,97.5,36.5,6,41,7,5,Tablet,1
+STU-00625,Grade 9,English Grammar,45,62,17,26,40,30.0,43.1,5,81,26,76,Mobile,0
+STU-00626,Grade 9,Mathematics,64,80,16,26,40,47.5,27.4,5,96,22,21,Mobile,0
+STU-00627,College Year 1,Mathematics,63,80,17,14,40,45.0,42.4,2,88,5,58,Tablet,0
+STU-00628,Grade 8,Digital Marketing,66,69,3,13,40,95.0,31.8,4,85,19,43,Tablet,0
+STU-00629,College Year 1,Physics,29,36,7,22,40,37.5,24.4,6,52,16,58,Mobile,1
+STU-00630,Grade 10,Mathematics,53,79,26,39,40,65.0,18.7,3,80,7,38,Mobile,0
+STU-00631,College Year 1,Web Development,68,100,32,8,40,57.5,43.9,3,61,6,79,Tablet,0
+STU-00632,Grade 8,Finance,62,60,-2,24,40,97.5,44.1,3,47,4,74,Desktop,0
+STU-00633,College Year 1,Mathematics,50,48,-2,34,40,12.5,9.7,4,57,9,56,Mobile,1
+STU-00634,Grade 8,Python Programming,52,78,26,33,40,92.5,16.4,2,42,22,54,Mobile,0
+STU-00635,College Year 2,Chemistry,27,38,11,36,40,72.5,37.0,6,59,0,12,Mobile,1
+STU-00636,Grade 10,Chemistry,34,31,-3,12,40,10.0,30.1,3,87,21,23,Mobile,0
+STU-00637,Grade 7,Chemistry,52,53,1,12,40,67.5,41.8,4,83,12,37,Mobile,0
+STU-00638,Grade 9,Digital Marketing,65,85,20,6,40,72.5,11.2,3,44,19,71,Mobile,0
+STU-00639,Grade 8,Digital Marketing,70,88,18,29,40,60.0,20.8,4,67,26,32,Mobile,0
+STU-00640,Grade 7,Chemistry,69,80,11,20,40,10.0,31.7,2,72,26,71,Desktop,0
+STU-00641,College Year 2,Finance,65,76,11,27,40,22.5,14.9,2,67,10,7,Mobile,0
+STU-00642,Professional,Design Thinking,29,47,18,7,40,95.0,20.2,3,57,10,26,Tablet,1
+STU-00643,Grade 9,Physics,75,98,23,36,40,87.5,19.0,3,48,25,64,Mobile,0
+STU-00644,Grade 8,Chemistry,51,54,3,15,40,57.5,15.9,5,87,28,19,Tablet,0
+STU-00645,Grade 7,Mathematics,45,69,24,36,40,90.0,33.6,2,98,2,80,Mobile,0
+STU-00646,Grade 6,Python Programming,63,69,6,21,40,37.5,27.8,5,74,11,22,Mobile,0
+STU-00647,Grade 10,Design Thinking,74,76,2,10,40,37.5,31.4,5,81,4,51,Mobile,0
+STU-00648,Grade 10,English Grammar,68,100,32,38,40,67.5,37.2,1,78,7,29,Desktop,0
+STU-00649,Grade 9,Digital Marketing,40,75,35,28,40,12.5,28.0,1,42,14,12,Tablet,0
+STU-00650,Professional,Digital Marketing,71,100,29,35,40,65.0,33.4,5,78,14,14,Desktop,0
+STU-00651,Professional,Chemistry,69,96,27,26,40,87.5,13.1,5,71,16,27,Desktop,0
+STU-00652,Grade 10,Finance,45,57,12,6,40,92.5,14.5,2,99,20,31,Mobile,0
+STU-00653,College Year 1,Design Thinking,32,35,3,12,40,22.5,39.3,2,40,20,13,Mobile,0
+STU-00654,Grade 10,Mathematics,52,70,18,26,40,85.0,36.6,4,79,16,47,Mobile,0
+STU-00655,Grade 8,Chemistry,57,83,26,3,40,97.5,21.1,1,98,18,30,Tablet,0
+STU-00656,Grade 8,Python Programming,48,69,21,5,40,92.5,30.1,5,47,19,20,Mobile,0
+STU-00657,College Year 2,Chemistry,66,93,27,5,40,80.0,9.3,3,99,27,66,Mobile,0
+STU-00658,Grade 8,Physics,74,93,19,23,40,37.5,29.6,2,68,30,13,Tablet,0
+STU-00659,Professional,Data Science,46,78,32,39,40,75.0,28.8,2,58,11,5,Mobile,0
+STU-00660,Grade 9,Digital Marketing,65,65,0,29,40,92.5,11.3,4,100,7,16,Mobile,0
+STU-00661,Grade 7,Python Programming,31,64,33,23,40,25.0,13.1,4,83,25,39,Desktop,0
+STU-00662,Grade 6,Digital Marketing,39,61,22,27,40,27.5,24.4,3,57,27,53,Desktop,0
+STU-00663,College Year 1,Physics,37,55,18,29,40,60.0,39.3,2,81,15,64,Mobile,0
+STU-00664,Grade 7,English Grammar,53,67,14,21,40,47.5,38.5,5,75,16,31,Tablet,0
+STU-00665,Grade 10,Chemistry,46,73,27,11,40,90.0,40.1,6,67,25,80,Tablet,0
+STU-00666,Grade 9,Data Science,59,80,21,33,40,47.5,14.5,5,74,9,38,Tablet,0
+STU-00667,Grade 8,Data Science,74,70,-4,26,40,87.5,16.5,5,70,25,76,Mobile,0
+STU-00668,College Year 1,Digital Marketing,49,48,-1,24,40,7.5,29.6,1,46,14,21,Mobile,1
+STU-00669,Grade 7,Design Thinking,71,100,29,25,40,25.0,36.1,3,40,15,63,Tablet,0
+STU-00670,Grade 6,English Grammar,29,59,30,38,40,27.5,29.7,4,100,29,56,Tablet,0
+STU-00671,Grade 10,Finance,42,37,-5,8,40,97.5,31.0,5,57,6,24,Mobile,0
+STU-00672,Grade 9,Chemistry,31,30,-1,26,40,42.5,22.9,3,76,18,23,Mobile,1
+STU-00673,Professional,Python Programming,56,66,10,13,40,12.5,30.5,3,61,6,74,Tablet,0
+STU-00674,Grade 9,Digital Marketing,28,30,2,10,40,72.5,8.1,3,76,17,25,Mobile,1
+STU-00675,Grade 7,Web Development,31,35,4,16,40,87.5,22.2,1,55,6,49,Desktop,1
+STU-00676,Grade 6,Data Science,67,76,9,28,40,12.5,27.5,2,93,16,44,Tablet,0
+STU-00677,Grade 7,Mathematics,69,90,21,5,40,70.0,24.2,4,73,18,14,Mobile,0
+STU-00678,Grade 10,Web Development,49,65,16,11,40,25.0,33.3,4,88,7,74,Tablet,0
+STU-00679,Professional,Web Development,41,58,17,22,40,10.0,36.4,1,43,25,70,Tablet,0
+STU-00680,College Year 1,Web Development,71,75,4,21,40,85.0,8.9,2,70,16,7,Desktop,0
+STU-00681,Grade 7,Data Science,25,49,24,32,40,77.5,14.1,1,53,20,24,Mobile,1
+STU-00682,College Year 1,Python Programming,43,70,27,25,40,97.5,13.0,2,46,10,9,Tablet,0
+STU-00683,Grade 8,Chemistry,41,65,24,30,40,40.0,26.1,6,96,5,55,Mobile,0
+STU-00684,Grade 8,Physics,43,64,21,5,40,12.5,20.0,1,84,16,18,Mobile,0
+STU-00685,Grade 8,Mathematics,57,66,9,23,40,47.5,15.0,5,82,30,76,Mobile,0
+STU-00686,Professional,Data Science,52,66,14,25,40,7.5,34.7,1,41,0,71,Desktop,0
+STU-00687,Grade 10,Mathematics,69,87,18,5,40,60.0,41.0,5,92,21,9,Desktop,0
+STU-00688,Professional,Python Programming,68,86,18,30,40,90.0,12.4,1,58,3,34,Mobile,0
+STU-00689,Grade 8,Data Science,71,87,16,12,40,35.0,34.5,3,45,27,15,Mobile,0
+STU-00690,College Year 1,Chemistry,56,91,35,12,40,82.5,34.3,3,85,22,53,Desktop,0
+STU-00691,Grade 9,Chemistry,60,60,0,23,40,7.5,32.9,3,85,13,77,Tablet,0
+STU-00692,College Year 1,Web Development,43,65,22,4,40,50.0,40.5,5,83,5,26,Desktop,0
+STU-00693,Grade 8,Chemistry,72,92,20,26,40,15.0,22.4,1,51,22,54,Mobile,0
+STU-00694,Grade 9,Physics,31,48,17,35,40,10.0,36.6,3,91,30,30,Tablet,1
+STU-00695,Professional,Finance,53,56,3,33,40,67.5,21.7,5,70,10,17,Mobile,0
+STU-00696,Grade 8,Data Science,51,66,15,30,40,52.5,36.9,6,69,5,7,Mobile,0
+STU-00697,Grade 8,Digital Marketing,53,82,29,28,40,22.5,10.2,4,72,28,68,Mobile,0
+STU-00698,College Year 2,Python Programming,44,54,10,4,40,17.5,33.1,4,98,8,64,Tablet,0
+STU-00699,Grade 9,Web Development,57,85,28,4,40,87.5,39.1,2,91,4,40,Desktop,0
+STU-00700,Professional,Finance,59,55,-4,10,40,67.5,25.3,6,56,23,12,Desktop,0
+STU-00701,College Year 1,Physics,67,91,24,30,40,52.5,38.9,1,92,4,75,Tablet,0
+STU-00702,Grade 9,Chemistry,72,73,1,5,40,47.5,16.8,6,60,2,14,Mobile,0
+STU-00703,College Year 1,Web Development,35,33,-2,11,40,25.0,36.4,1,96,0,79,Mobile,0
+STU-00704,Grade 8,Chemistry,74,93,19,34,40,7.5,15.4,2,43,15,58,Desktop,0
+STU-00705,Grade 7,Finance,27,50,23,14,40,17.5,37.1,2,63,27,34,Desktop,0
+STU-00706,College Year 2,Physics,31,31,0,34,40,17.5,36.5,1,59,12,35,Desktop,0
+STU-00707,Grade 9,Data Science,70,82,12,23,40,55.0,10.5,6,64,25,20,Tablet,0
+STU-00708,Grade 8,Python Programming,47,65,18,7,40,92.5,29.7,3,92,25,11,Tablet,0
+STU-00709,Grade 6,Physics,50,79,29,27,40,27.5,44.3,1,79,2,25,Mobile,0
+STU-00710,Grade 6,Web Development,48,67,19,6,40,27.5,36.3,1,73,5,14,Tablet,0
+STU-00711,College Year 2,Design Thinking,59,64,5,12,40,82.5,12.5,1,88,10,71,Tablet,0
+STU-00712,Grade 8,Data Science,42,49,7,11,40,20.0,34.6,6,49,29,60,Desktop,0
+STU-00713,Grade 9,Mathematics,54,88,34,36,40,22.5,23.5,6,76,30,62,Mobile,0
+STU-00714,College Year 1,Mathematics,28,44,16,7,40,27.5,25.0,1,69,25,49,Mobile,1
+STU-00715,Grade 10,Data Science,75,75,0,8,40,65.0,13.3,4,61,14,16,Mobile,0
+STU-00716,Grade 9,Python Programming,33,39,6,31,40,82.5,24.4,4,41,5,57,Mobile,0
+STU-00717,Grade 7,Finance,41,51,10,37,40,95.0,16.5,1,86,2,11,Mobile,0
+STU-00718,Grade 7,Mathematics,41,65,24,35,40,42.5,44.9,4,52,9,78,Mobile,0
+STU-00719,College Year 2,Finance,67,94,27,27,40,40.0,19.0,4,98,21,75,Mobile,0
+STU-00720,Grade 7,Finance,59,88,29,7,40,10.0,33.5,2,89,13,62,Mobile,0
+STU-00721,Grade 8,Chemistry,41,58,17,28,40,70.0,8.4,5,45,3,21,Mobile,0
+STU-00722,Grade 8,Digital Marketing,34,68,34,32,40,45.0,43.0,3,48,16,12,Mobile,0
+STU-00723,Grade 9,Design Thinking,75,100,25,24,40,65.0,28.3,5,94,15,66,Mobile,0
+STU-00724,College Year 1,Design Thinking,54,52,-2,15,40,65.0,11.7,6,76,9,14,Tablet,0
+STU-00725,Grade 7,English Grammar,28,43,15,15,40,55.0,25.1,1,95,1,50,Mobile,0
+STU-00726,Grade 7,Physics,25,29,4,18,40,82.5,22.1,6,87,11,12,Desktop,1
+STU-00727,Grade 9,Chemistry,61,64,3,37,40,95.0,28.3,4,60,1,7,Desktop,0
+STU-00728,Professional,Chemistry,35,58,23,18,40,50.0,41.3,3,91,5,73,Desktop,0
+STU-00729,Grade 6,Digital Marketing,53,62,9,11,40,45.0,33.9,2,50,5,28,Mobile,0
+STU-00730,Grade 8,Design Thinking,36,49,13,5,40,7.5,8.2,6,69,12,64,Tablet,1
+STU-00731,College Year 2,Data Science,26,25,-1,34,40,95.0,42.0,2,66,29,46,Mobile,1
+STU-00732,Grade 6,Chemistry,51,67,16,35,40,100.0,9.3,2,41,15,67,Mobile,0
+STU-00733,College Year 1,Digital Marketing,38,71,33,33,40,52.5,31.1,2,64,7,77,Mobile,0
+STU-00734,Grade 6,Chemistry,28,57,29,21,40,32.5,41.6,1,79,29,49,Desktop,0
+STU-00735,Grade 8,Web Development,72,100,28,15,40,32.5,12.8,1,84,6,61,Mobile,0
+STU-00736,Grade 10,Digital Marketing,46,47,1,31,40,90.0,14.2,5,40,15,48,Mobile,1
+STU-00737,Grade 10,Design Thinking,38,63,25,22,40,20.0,10.5,5,68,4,54,Desktop,0
+STU-00738,College Year 2,Web Development,37,49,12,17,40,15.0,8.9,4,61,4,80,Mobile,1
+STU-00739,Grade 10,Web Development,52,80,28,4,40,60.0,13.8,4,66,10,8,Tablet,0
+STU-00740,College Year 2,Digital Marketing,32,35,3,36,40,42.5,29.5,6,80,27,63,Mobile,1
+STU-00741,Grade 10,Physics,73,96,23,3,40,75.0,41.9,1,64,26,52,Desktop,0
+STU-00742,College Year 2,Physics,34,48,14,24,40,95.0,26.1,5,100,20,68,Tablet,0
+STU-00743,Grade 6,Physics,67,71,4,20,40,92.5,22.0,5,62,3,34,Mobile,0
+STU-00744,Grade 7,Finance,46,72,26,35,40,62.5,32.9,1,87,21,55,Tablet,0
+STU-00745,Grade 10,Chemistry,37,70,33,17,40,62.5,15.9,1,74,15,24,Mobile,0
+STU-00746,Grade 6,Web Development,67,87,20,22,40,27.5,11.2,6,53,11,56,Tablet,0
+STU-00747,Grade 9,Design Thinking,49,63,14,25,40,77.5,39.0,3,69,6,5,Desktop,0
+STU-00748,College Year 2,Digital Marketing,58,83,25,14,40,60.0,32.6,2,67,20,30,Desktop,0
+STU-00749,Grade 7,English Grammar,33,32,-1,24,40,60.0,15.9,1,42,17,55,Desktop,1
+STU-00750,Grade 10,Data Science,29,59,30,31,40,87.5,16.1,4,53,27,62,Desktop,0
+STU-00751,Grade 6,English Grammar,30,48,18,29,40,30.0,32.4,3,62,17,76,Tablet,1
+STU-00752,College Year 2,Digital Marketing,63,84,21,39,40,37.5,22.9,1,79,15,39,Desktop,0
+STU-00753,Grade 6,English Grammar,70,100,30,11,40,27.5,33.4,1,41,27,55,Desktop,0
+STU-00754,Grade 10,Digital Marketing,54,86,32,23,40,30.0,44.3,4,42,22,69,Mobile,0
+STU-00755,Professional,Mathematics,50,83,33,14,40,57.5,32.3,3,70,18,6,Mobile,0
+STU-00756,Professional,Physics,61,86,25,28,40,70.0,28.7,6,55,19,32,Desktop,0
+STU-00757,Grade 7,Web Development,54,75,21,8,40,37.5,37.3,4,44,4,44,Tablet,0
+STU-00758,Grade 9,Web Development,62,57,-5,28,40,35.0,34.1,2,95,11,63,Desktop,0
+STU-00759,Grade 9,English Grammar,42,61,19,34,40,72.5,12.9,4,57,17,54,Tablet,0
+STU-00760,College Year 1,Data Science,36,49,13,14,40,10.0,35.9,3,55,5,50,Tablet,0
+STU-00761,Grade 9,Chemistry,46,42,-4,14,40,65.0,20.3,4,91,21,60,Desktop,1
+STU-00762,Grade 9,Mathematics,68,86,18,33,40,75.0,19.3,3,81,28,69,Desktop,0
+STU-00763,College Year 1,Data Science,56,79,23,8,40,47.5,28.0,1,94,16,14,Mobile,0
+STU-00764,Grade 9,Chemistry,43,50,7,22,40,30.0,16.8,6,77,17,48,Desktop,0
+STU-00765,Grade 8,Web Development,69,87,18,21,40,22.5,31.0,6,51,23,79,Mobile,0
+STU-00766,Grade 9,Physics,40,37,-3,3,40,45.0,43.9,4,90,10,47,Mobile,1
+STU-00767,Grade 7,Physics,33,45,12,30,40,67.5,12.1,5,44,26,53,Mobile,1
+STU-00768,Grade 8,Digital Marketing,36,65,29,4,40,100.0,28.5,3,68,24,11,Mobile,0
+STU-00769,Grade 8,English Grammar,73,100,27,30,40,55.0,43.4,1,62,19,10,Mobile,0
+STU-00770,College Year 1,Digital Marketing,47,80,33,31,40,37.5,31.1,5,78,22,13,Mobile,0
+STU-00771,Professional,Python Programming,47,67,20,6,40,57.5,14.6,1,75,17,14,Mobile,0
+STU-00772,College Year 1,English Grammar,28,60,32,28,40,75.0,36.2,4,94,8,14,Desktop,0
+STU-00773,College Year 2,Digital Marketing,68,63,-5,9,40,60.0,44.5,2,66,30,45,Desktop,0
+STU-00774,Professional,Python Programming,51,66,15,5,40,65.0,24.0,1,82,7,17,Mobile,0
+STU-00775,College Year 1,Physics,50,74,24,30,40,70.0,35.6,1,40,5,73,Mobile,0
+STU-00776,College Year 2,Web Development,37,58,21,37,40,60.0,35.7,1,96,26,28,Mobile,0
+STU-00777,Grade 9,Web Development,42,49,7,4,40,10.0,18.9,2,48,7,36,Tablet,1
+STU-00778,Grade 7,Chemistry,35,47,12,14,40,100.0,20.5,5,50,4,54,Mobile,1
+STU-00779,Grade 7,Data Science,63,88,25,6,40,60.0,19.8,3,95,11,74,Mobile,0
+STU-00780,Grade 10,Chemistry,28,49,21,33,40,85.0,20.6,3,81,15,76,Mobile,1
+STU-00781,Grade 10,Web Development,75,85,10,5,40,85.0,17.5,2,74,25,31,Tablet,0
+STU-00782,Professional,Web Development,62,70,8,18,40,72.5,17.0,3,68,25,64,Mobile,0
+STU-00783,Professional,Web Development,28,43,15,28,40,90.0,32.4,6,52,24,17,Mobile,1
+STU-00784,Grade 7,English Grammar,56,56,0,36,40,42.5,34.5,4,76,3,61,Mobile,0
+STU-00785,Professional,Digital Marketing,53,61,8,6,40,60.0,20.8,6,48,23,56,Desktop,0
+STU-00786,Grade 8,Physics,72,100,28,13,40,20.0,20.9,3,96,16,68,Tablet,0
+STU-00787,College Year 1,Data Science,39,57,18,38,40,27.5,29.2,3,84,13,42,Mobile,0
+STU-00788,College Year 1,Python Programming,65,78,13,16,40,45.0,42.6,4,78,30,36,Desktop,0
+STU-00789,Grade 8,Data Science,35,66,31,6,40,42.5,19.4,2,93,26,39,Mobile,0
+STU-00790,Grade 9,English Grammar,69,86,17,20,40,65.0,30.1,6,75,14,26,Mobile,0
+STU-00791,Grade 7,Mathematics,49,74,25,25,40,70.0,37.4,1,40,2,5,Tablet,0
+STU-00792,Grade 9,Chemistry,31,47,16,24,40,47.5,44.2,5,68,9,22,Tablet,1
+STU-00793,Grade 8,Chemistry,32,57,25,39,40,35.0,27.6,4,43,20,10,Tablet,0
+STU-00794,Grade 8,Design Thinking,52,68,16,29,40,42.5,40.6,3,58,9,72,Desktop,0
+STU-00795,Grade 10,Digital Marketing,52,47,-5,18,40,90.0,13.8,1,52,0,62,Desktop,1
+STU-00796,Grade 8,Chemistry,54,78,24,13,40,87.5,26.2,1,76,13,55,Tablet,0
+STU-00797,College Year 2,Design Thinking,73,100,27,16,40,20.0,20.0,6,43,16,75,Mobile,0
+STU-00798,College Year 2,Mathematics,63,72,9,13,40,95.0,27.7,5,65,24,35,Mobile,0
+STU-00799,Grade 6,Web Development,50,62,12,14,40,30.0,30.9,2,73,0,60,Mobile,0
+STU-00800,Grade 7,Web Development,64,60,-4,17,40,67.5,32.4,3,67,5,28,Desktop,0
+STU-00801,Grade 9,Python Programming,25,50,25,33,40,50.0,22.0,6,54,13,34,Mobile,0
+STU-00802,Grade 7,Mathematics,56,79,23,15,40,42.5,23.6,5,46,17,56,Tablet,0
+STU-00803,Professional,Data Science,41,40,-1,40,40,37.5,24.8,3,52,2,52,Mobile,1
+STU-00804,Grade 8,English Grammar,51,56,5,24,40,20.0,40.4,3,98,6,59,Tablet,0
+STU-00805,Grade 10,Web Development,75,85,10,18,40,7.5,39.7,1,83,14,76,Mobile,0
+STU-00806,Grade 10,Physics,40,44,4,17,40,72.5,30.4,2,40,7,18,Mobile,1
+STU-00807,Grade 7,Chemistry,48,52,4,34,40,45.0,34.4,4,41,12,47,Tablet,0
+STU-00808,Grade 6,English Grammar,54,72,18,4,40,10.0,29.5,3,43,2,38,Mobile,0
+STU-00809,Professional,Mathematics,25,58,33,22,40,85.0,26.1,3,100,8,34,Mobile,0
+STU-00810,College Year 2,Digital Marketing,25,47,22,6,40,12.5,18.1,3,46,28,16,Mobile,1
+STU-00811,College Year 1,Data Science,64,71,7,35,40,35.0,9.7,3,61,16,13,Desktop,0
+STU-00812,Grade 8,Physics,32,50,18,31,40,47.5,36.4,4,84,3,16,Mobile,0
+STU-00813,Professional,Finance,52,52,0,4,40,100.0,18.9,2,79,13,14,Mobile,0
+STU-00814,Grade 6,Design Thinking,41,60,19,17,40,72.5,42.7,5,85,25,19,Mobile,0
+STU-00815,College Year 1,Python Programming,55,52,-3,3,40,22.5,43.0,2,97,7,80,Tablet,0
+STU-00816,College Year 2,Web Development,58,59,1,26,40,97.5,43.2,2,100,28,72,Mobile,0
+STU-00817,Grade 7,Design Thinking,27,24,-3,29,40,25.0,39.7,4,75,15,62,Tablet,1
+STU-00818,College Year 2,Finance,65,94,29,10,40,95.0,22.3,4,74,1,39,Tablet,0
+STU-00819,Grade 9,Finance,55,78,23,16,40,92.5,43.1,3,85,21,37,Tablet,0
+STU-00820,Professional,Design Thinking,70,67,-3,19,40,92.5,8.1,2,79,3,30,Mobile,0
+STU-00821,Professional,English Grammar,50,53,3,19,40,80.0,35.9,1,99,29,62,Mobile,0
+STU-00822,College Year 2,Mathematics,45,71,26,29,40,32.5,26.2,2,77,15,27,Mobile,0
+STU-00823,Professional,Mathematics,26,31,5,29,40,47.5,14.6,1,61,7,13,Mobile,0
+STU-00824,Grade 9,Data Science,73,83,10,27,40,45.0,22.4,5,78,14,47,Desktop,0
+STU-00825,Grade 6,Data Science,37,58,21,5,40,32.5,9.1,6,86,9,60,Mobile,0
+STU-00826,Grade 7,Data Science,72,96,24,15,40,92.5,26.9,1,50,12,77,Mobile,0
+STU-00827,Grade 8,Finance,27,61,34,29,40,82.5,43.5,2,40,13,43,Tablet,0
+STU-00828,Grade 8,Digital Marketing,57,84,27,24,40,95.0,18.1,6,63,13,57,Desktop,0
+STU-00829,College Year 1,Web Development,66,68,2,16,40,90.0,27.3,6,85,0,13,Desktop,0
+STU-00830,Grade 8,Finance,29,42,13,15,40,75.0,23.7,4,85,20,51,Mobile,0
+STU-00831,College Year 1,Design Thinking,57,56,-1,30,40,82.5,36.1,4,48,17,15,Mobile,0
+STU-00832,Grade 7,Data Science,55,61,6,32,40,62.5,25.8,2,78,6,22,Mobile,0
+STU-00833,College Year 2,Finance,58,80,22,14,40,40.0,44.8,6,99,24,9,Desktop,0
+STU-00834,Professional,Finance,63,80,17,28,40,92.5,29.4,2,75,17,44,Desktop,0
+STU-00835,Grade 6,Physics,34,34,0,18,40,90.0,15.9,4,43,11,51,Tablet,0
+STU-00836,Grade 6,Finance,72,69,-3,36,40,62.5,18.6,3,55,14,73,Tablet,0
+STU-00837,Grade 6,Chemistry,71,71,0,26,40,87.5,40.2,3,41,2,22,Desktop,0
+STU-00838,Professional,Chemistry,51,67,16,34,40,90.0,36.3,6,84,4,42,Desktop,0
+STU-00839,Grade 10,Digital Marketing,74,100,26,39,40,80.0,10.4,1,94,29,30,Mobile,0
+STU-00840,Grade 6,Chemistry,26,58,32,36,40,27.5,25.7,3,74,10,13,Desktop,0
+STU-00841,Grade 8,English Grammar,41,67,26,38,40,10.0,22.6,4,52,23,30,Desktop,0
+STU-00842,College Year 1,Digital Marketing,45,74,29,5,40,75.0,37.7,1,42,25,9,Desktop,0
+STU-00843,Grade 8,Design Thinking,28,40,12,12,40,50.0,21.9,3,82,8,10,Mobile,1
+STU-00844,Grade 10,English Grammar,46,44,-2,10,40,87.5,11.5,2,98,18,66,Mobile,0
+STU-00845,Grade 7,Mathematics,46,54,8,10,40,15.0,8.5,4,86,11,44,Desktop,0
+STU-00846,Professional,English Grammar,51,75,24,9,40,97.5,29.6,1,80,9,58,Mobile,0
+STU-00847,Grade 10,Mathematics,36,52,16,23,40,57.5,14.0,6,55,14,65,Mobile,0
+STU-00848,Professional,Mathematics,37,46,9,6,40,30.0,32.2,5,63,28,30,Mobile,1
+STU-00849,Grade 9,English Grammar,74,85,11,19,40,90.0,9.7,1,43,18,44,Desktop,0
+STU-00850,Grade 6,Data Science,70,83,13,21,40,62.5,27.3,6,52,26,72,Desktop,0
+STU-00851,Professional,English Grammar,57,73,16,3,40,62.5,38.5,5,74,23,10,Mobile,0
+STU-00852,Grade 6,Digital Marketing,49,80,31,15,40,55.0,16.3,3,46,18,47,Desktop,0
+STU-00853,Grade 10,Chemistry,63,79,16,9,40,62.5,38.8,5,42,7,62,Mobile,0
+STU-00854,Grade 9,Finance,55,56,1,35,40,27.5,27.4,6,54,7,59,Desktop,0
+STU-00855,College Year 2,Digital Marketing,49,52,3,6,40,55.0,42.3,5,52,1,45,Mobile,0
+STU-00856,Grade 7,Digital Marketing,56,78,22,36,40,17.5,16.7,3,91,1,36,Mobile,0
+STU-00857,College Year 2,Python Programming,63,63,0,35,40,12.5,32.5,5,56,17,20,Tablet,0
+STU-00858,Grade 6,English Grammar,64,94,30,37,40,57.5,24.8,2,45,26,19,Tablet,0
+STU-00859,College Year 2,Data Science,44,40,-4,5,40,10.0,18.5,6,50,26,35,Mobile,1
+STU-00860,College Year 2,Finance,69,81,12,22,40,77.5,18.6,6,57,1,35,Mobile,0
+STU-00861,Grade 10,English Grammar,37,69,32,12,40,15.0,21.1,5,85,12,75,Mobile,0
+STU-00862,Professional,Mathematics,34,44,10,14,40,10.0,20.0,5,94,28,17,Mobile,1
+STU-00863,Professional,Python Programming,67,72,5,21,40,75.0,27.1,1,59,19,69,Desktop,0
+STU-00864,Grade 8,Web Development,72,78,6,23,40,72.5,9.1,5,74,16,74,Mobile,0
+STU-00865,Grade 10,Web Development,28,63,35,14,40,85.0,29.2,3,99,21,33,Mobile,0
+STU-00866,Grade 7,Data Science,74,69,-5,11,40,47.5,27.3,1,97,15,45,Tablet,0
+STU-00867,College Year 2,Mathematics,61,93,32,10,40,32.5,36.4,5,45,23,35,Mobile,0
+STU-00868,Grade 9,Mathematics,60,85,25,27,40,70.0,18.9,4,57,30,41,Mobile,0
+STU-00869,Grade 9,Digital Marketing,34,58,24,12,40,10.0,27.3,5,92,29,69,Tablet,0
+STU-00870,College Year 2,English Grammar,33,58,25,32,40,25.0,23.9,1,42,21,39,Desktop,0
+STU-00871,Grade 10,Python Programming,39,73,34,32,40,22.5,11.7,3,58,22,22,Tablet,0
+STU-00872,Grade 6,Finance,25,41,16,11,40,65.0,44.3,2,82,1,46,Desktop,1
+STU-00873,College Year 1,Web Development,40,37,-3,15,40,27.5,8.7,3,69,10,10,Mobile,1
+STU-00874,College Year 2,Mathematics,44,69,25,3,40,60.0,25.8,6,71,16,74,Mobile,0
+STU-00875,College Year 1,Finance,69,77,8,27,40,20.0,15.2,2,51,10,52,Desktop,0
+STU-00876,Grade 7,Python Programming,59,89,30,22,40,57.5,43.0,1,87,7,41,Mobile,0
+STU-00877,Grade 9,Physics,65,88,23,39,40,22.5,39.2,1,49,6,34,Mobile,0
+STU-00878,Grade 9,Mathematics,73,100,27,24,40,42.5,43.6,5,70,27,14,Mobile,0
+STU-00879,College Year 2,Design Thinking,39,45,6,5,40,60.0,43.0,6,70,8,23,Tablet,1
+STU-00880,Grade 10,Mathematics,48,61,13,11,40,67.5,22.3,1,43,23,53,Desktop,0
+STU-00881,Grade 8,Python Programming,75,88,13,22,40,72.5,28.2,2,40,27,68,Tablet,0
+STU-00882,Grade 7,Chemistry,67,77,10,26,40,82.5,13.2,1,62,19,32,Mobile,0
+STU-00883,Professional,Physics,41,63,22,17,40,55.0,10.6,4,49,19,67,Mobile,0
+STU-00884,Grade 9,Mathematics,35,38,3,8,40,10.0,39.5,1,49,5,6,Tablet,1
+STU-00885,Grade 9,Data Science,60,92,32,28,40,92.5,11.0,3,40,21,55,Desktop,0
+STU-00886,Grade 10,Web Development,26,58,32,28,40,77.5,19.8,2,59,17,23,Desktop,0
+STU-00887,Grade 7,English Grammar,29,58,29,4,40,17.5,14.8,4,87,16,52,Tablet,0
+STU-00888,Grade 6,Mathematics,63,81,18,22,40,77.5,11.2,1,87,3,7,Tablet,0
+STU-00889,Grade 10,Data Science,32,55,23,3,40,40.0,20.0,3,83,0,5,Tablet,0
+STU-00890,College Year 2,Web Development,75,73,-2,24,40,60.0,29.5,3,85,24,40,Mobile,0
+STU-00891,Professional,Data Science,25,43,18,34,40,60.0,43.5,6,48,12,12,Mobile,0
+STU-00892,Grade 9,Digital Marketing,34,54,20,8,40,45.0,29.3,6,71,24,24,Mobile,0
+STU-00893,Grade 10,Physics,55,50,-5,27,40,27.5,28.8,6,87,17,66,Mobile,0
+STU-00894,Professional,Chemistry,52,75,23,10,40,77.5,10.0,1,62,4,33,Tablet,0
+STU-00895,Grade 8,Data Science,73,96,23,26,40,40.0,29.0,2,82,21,19,Mobile,0
+STU-00896,Grade 9,Web Development,42,67,25,26,40,30.0,15.5,5,74,20,45,Tablet,0
+STU-00897,College Year 1,Mathematics,71,75,4,7,40,50.0,14.1,1,62,10,23,Mobile,0
+STU-00898,Grade 6,Python Programming,41,36,-5,8,40,92.5,20.8,3,50,15,66,Tablet,1
+STU-00899,College Year 1,Web Development,57,81,24,12,40,30.0,32.3,3,63,4,80,Mobile,0
+STU-00900,Grade 6,Chemistry,48,73,25,17,40,37.5,42.8,1,71,26,9,Mobile,0
+STU-00901,Grade 10,English Grammar,60,75,15,7,40,95.0,40.6,1,88,15,57,Desktop,0
+STU-00902,Grade 9,Physics,65,95,30,23,40,67.5,27.2,1,58,4,46,Tablet,0
+STU-00903,Professional,Digital Marketing,32,47,15,19,40,12.5,25.7,1,55,1,9,Desktop,1
+STU-00904,College Year 2,Mathematics,25,21,-4,40,40,22.5,17.4,3,86,25,21,Mobile,1
+STU-00905,Professional,Digital Marketing,33,58,25,33,40,15.0,15.5,2,70,29,63,Tablet,0
+STU-00906,Grade 6,Physics,27,57,30,21,40,22.5,26.9,3,85,30,27,Tablet,0
+STU-00907,Grade 10,Chemistry,36,68,32,32,40,30.0,23.6,3,42,4,77,Tablet,0
+STU-00908,Grade 7,Python Programming,40,64,24,3,40,37.5,18.3,6,97,12,8,Tablet,0
+STU-00909,Grade 6,Python Programming,72,84,12,31,40,90.0,35.4,5,43,16,48,Desktop,0
+STU-00910,Grade 10,Design Thinking,51,60,9,3,40,100.0,34.5,1,75,13,35,Desktop,0
+STU-00911,College Year 1,Data Science,57,52,-5,29,40,75.0,23.6,4,97,14,41,Tablet,0
+STU-00912,Professional,Physics,65,71,6,5,40,27.5,21.4,3,45,2,33,Tablet,0
+STU-00913,College Year 2,Digital Marketing,46,80,34,13,40,92.5,40.1,6,85,2,79,Mobile,0
+STU-00914,Grade 10,Chemistry,61,57,-4,9,40,27.5,16.3,1,65,21,67,Mobile,0
+STU-00915,Professional,Design Thinking,63,93,30,10,40,62.5,17.9,1,82,30,64,Tablet,0
+STU-00916,Professional,Chemistry,62,84,22,40,40,57.5,10.2,6,75,2,61,Tablet,0
+STU-00917,Grade 6,English Grammar,54,54,0,40,40,32.5,34.5,3,49,17,17,Tablet,0
+STU-00918,Professional,Mathematics,38,36,-2,6,40,75.0,24.2,5,81,5,8,Mobile,0
+STU-00919,Professional,Data Science,32,30,-2,17,40,85.0,32.8,3,99,9,37,Tablet,1
+STU-00920,College Year 2,Web Development,50,81,31,36,40,30.0,12.2,6,64,4,46,Desktop,0
+STU-00921,Grade 9,Mathematics,44,79,35,19,40,30.0,32.5,3,51,1,47,Tablet,0
+STU-00922,College Year 2,Chemistry,42,41,-1,18,40,52.5,10.8,4,70,13,43,Mobile,1
+STU-00923,Professional,Chemistry,52,68,16,13,40,32.5,11.9,4,60,30,80,Mobile,0
+STU-00924,Grade 6,Python Programming,50,45,-5,18,40,72.5,34.3,1,98,16,26,Desktop,0
+STU-00925,Professional,Web Development,73,100,27,3,40,70.0,25.6,5,94,26,50,Mobile,0
+STU-00926,Grade 8,English Grammar,69,68,-1,37,40,60.0,41.5,1,65,24,45,Desktop,0
+STU-00927,Professional,Python Programming,44,56,12,31,40,57.5,42.9,4,74,13,50,Mobile,0
+STU-00928,Grade 6,English Grammar,70,89,19,9,40,25.0,20.9,1,87,26,61,Mobile,0
+STU-00929,Professional,Python Programming,35,57,22,10,40,25.0,32.2,6,82,14,66,Mobile,0
+STU-00930,Grade 10,English Grammar,47,48,1,24,40,22.5,12.2,6,49,8,78,Mobile,1
+STU-00931,Grade 10,Digital Marketing,61,84,23,8,40,50.0,35.8,4,95,4,28,Mobile,0
+STU-00932,Grade 9,English Grammar,26,24,-2,17,40,20.0,32.2,2,45,8,17,Tablet,1
+STU-00933,Grade 7,Physics,53,73,20,3,40,27.5,42.0,4,83,5,32,Tablet,0
+STU-00934,Grade 8,Finance,28,44,16,10,40,90.0,10.3,2,74,24,19,Mobile,1
+STU-00935,College Year 2,Digital Marketing,70,100,30,19,40,95.0,34.8,4,85,30,12,Desktop,0
+STU-00936,Grade 8,Python Programming,66,65,-1,27,40,37.5,24.2,3,73,16,13,Desktop,0
+STU-00937,Grade 9,Chemistry,49,53,4,27,40,20.0,41.9,4,67,17,28,Mobile,0
+STU-00938,Grade 9,Web Development,41,42,1,5,40,82.5,31.9,4,78,15,15,Mobile,1
+STU-00939,Grade 6,Data Science,75,100,25,33,40,52.5,21.7,5,81,22,25,Mobile,0
+STU-00940,Grade 7,Chemistry,32,40,8,9,40,32.5,30.0,3,96,8,31,Desktop,1
+STU-00941,Grade 9,Web Development,60,62,2,33,40,87.5,8.7,6,55,28,57,Tablet,0
+STU-00942,Grade 10,Python Programming,47,74,27,4,40,47.5,43.7,6,51,26,18,Tablet,0
+STU-00943,College Year 1,Finance,72,86,14,32,40,65.0,17.1,1,57,4,74,Mobile,0
+STU-00944,Grade 7,Web Development,58,55,-3,6,40,60.0,34.2,1,95,26,54,Mobile,0
+STU-00945,Grade 6,Data Science,37,66,29,5,40,32.5,38.6,5,65,15,77,Desktop,0
+STU-00946,College Year 1,Web Development,28,38,10,23,40,95.0,26.4,6,83,25,61,Mobile,1
+STU-00947,College Year 1,Physics,28,61,33,18,40,42.5,25.4,6,91,9,28,Tablet,0
+STU-00948,Grade 6,Digital Marketing,70,84,14,34,40,80.0,31.7,6,74,23,21,Desktop,0
+STU-00949,College Year 1,Data Science,52,77,25,18,40,12.5,32.3,3,72,12,68,Desktop,0
+STU-00950,Grade 6,Python Programming,27,47,20,13,40,15.0,37.8,3,50,0,6,Mobile,0
+STU-00951,Grade 6,Web Development,60,79,19,9,40,37.5,44.0,2,65,2,72,Mobile,0
+STU-00952,College Year 2,Design Thinking,57,59,2,38,40,17.5,9.9,4,67,17,25,Mobile,0
+STU-00953,Grade 10,Python Programming,33,34,1,31,40,47.5,41.1,2,47,8,40,Mobile,1
+STU-00954,Grade 8,Physics,57,67,10,35,40,20.0,32.9,2,45,13,34,Tablet,0
+STU-00955,Grade 7,Design Thinking,31,54,23,40,40,62.5,30.8,3,94,0,80,Tablet,0
+STU-00956,Grade 9,Python Programming,48,74,26,13,40,90.0,41.2,5,50,24,54,Desktop,0
+STU-00957,College Year 2,Mathematics,32,58,26,29,40,45.0,19.6,6,84,21,62,Desktop,0
+STU-00958,Professional,English Grammar,31,28,-3,17,40,97.5,12.0,1,71,26,59,Tablet,1
+STU-00959,Grade 8,Physics,55,72,17,3,40,50.0,13.1,1,94,16,9,Mobile,0
+STU-00960,Grade 10,Digital Marketing,64,93,29,27,40,20.0,12.1,4,45,5,54,Desktop,0
+STU-00961,College Year 1,Design Thinking,66,93,27,7,40,27.5,13.9,5,45,20,8,Desktop,0
+STU-00962,Grade 9,Design Thinking,28,31,3,10,40,60.0,31.4,3,71,13,12,Mobile,1
+STU-00963,Professional,Physics,33,39,6,12,40,55.0,41.8,3,45,9,70,Tablet,1
+STU-00964,Grade 7,Finance,49,74,25,30,40,42.5,27.3,4,41,7,40,Desktop,0
+STU-00965,Grade 10,Physics,65,100,35,20,40,70.0,23.3,2,87,22,10,Desktop,0
+STU-00966,Professional,Python Programming,46,51,5,30,40,52.5,28.0,5,44,7,64,Mobile,0
+STU-00967,Grade 6,Python Programming,65,86,21,9,40,42.5,33.8,1,62,13,68,Mobile,0
+STU-00968,Grade 10,Digital Marketing,42,71,29,38,40,90.0,35.8,5,56,5,27,Tablet,0
+STU-00969,College Year 1,Chemistry,61,71,10,31,40,32.5,43.1,6,90,3,17,Desktop,0
+STU-00970,Grade 10,Mathematics,53,80,27,29,40,37.5,14.0,4,87,14,37,Mobile,0
+STU-00971,Grade 7,Digital Marketing,63,91,28,39,40,75.0,11.7,2,53,23,47,Mobile,0
+STU-00972,Professional,Chemistry,47,50,3,21,40,32.5,39.8,5,79,16,71,Desktop,0
+STU-00973,Grade 9,Finance,25,33,8,38,40,70.0,33.3,2,69,15,66,Mobile,0
+STU-00974,College Year 2,Physics,66,74,8,11,40,77.5,43.8,2,58,21,45,Desktop,0
+STU-00975,College Year 2,Web Development,37,43,6,14,40,77.5,44.5,6,43,18,50,Mobile,1
+STU-00976,Grade 6,Design Thinking,36,33,-3,38,40,40.0,38.1,3,47,30,35,Mobile,0
+STU-00977,College Year 2,Data Science,63,70,7,6,40,30.0,36.3,5,43,1,23,Desktop,0
+STU-00978,Grade 9,Design Thinking,40,55,15,18,40,72.5,27.2,1,77,17,78,Mobile,0
+STU-00979,Grade 8,Data Science,63,71,8,39,40,47.5,32.8,3,74,7,17,Mobile,0
+STU-00980,Grade 8,Physics,35,34,-1,36,40,80.0,19.8,4,52,7,31,Mobile,0
+STU-00981,College Year 1,Finance,37,36,-1,40,40,67.5,29.1,4,91,27,6,Mobile,0
+STU-00982,Grade 7,Finance,54,76,22,29,40,15.0,25.2,5,88,12,78,Mobile,0
+STU-00983,Grade 6,Mathematics,37,45,8,9,40,15.0,11.4,6,55,22,20,Mobile,0
+STU-00984,Grade 7,Mathematics,36,42,6,5,40,35.0,23.3,3,56,25,70,Desktop,0
+STU-00985,Grade 6,Mathematics,59,78,19,31,40,82.5,38.6,6,90,13,30,Mobile,0
+STU-00986,College Year 2,Physics,54,87,33,36,40,70.0,29.5,5,70,6,16,Mobile,0
+STU-00987,Grade 9,Finance,62,77,15,6,40,30.0,24.5,2,93,11,32,Tablet,0
+STU-00988,Grade 8,Chemistry,31,58,27,38,40,75.0,44.6,5,62,10,34,Mobile,0
+STU-00989,Grade 9,Digital Marketing,37,33,-4,7,40,50.0,29.1,5,46,27,6,Desktop,1
+STU-00990,Grade 9,Data Science,70,71,1,8,40,87.5,42.9,1,45,25,45,Mobile,0
+STU-00991,Grade 9,Web Development,28,54,26,13,40,60.0,43.4,6,88,30,12,Mobile,0
+STU-00992,Grade 9,Finance,31,30,-1,32,40,12.5,34.1,5,53,11,79,Mobile,0
+STU-00993,Grade 9,Chemistry,42,71,29,40,40,80.0,11.2,4,51,25,78,Mobile,0
+STU-00994,College Year 1,English Grammar,62,76,14,5,40,42.5,17.5,2,55,11,12,Desktop,0
+STU-00995,Grade 9,Physics,31,38,7,35,40,65.0,14.3,2,65,24,6,Tablet,0
+STU-00996,Grade 7,Physics,74,100,26,13,40,90.0,41.9,2,50,19,74,Mobile,0
+STU-00997,Grade 6,Chemistry,52,79,27,6,40,72.5,42.9,3,66,26,50,Mobile,0
+STU-00998,Grade 7,Mathematics,61,71,10,9,40,75.0,15.5,2,85,5,39,Mobile,0
+STU-00999,Grade 7,Web Development,61,88,27,25,40,82.5,36.2,4,76,15,51,Mobile,0
+STU-01000,Professional,English Grammar,40,59,19,20,40,100.0,10.0,5,45,10,19,Tablet,0

@@ -1,0 +1,552 @@
+[
+  {
+    "test_id": "ET-TC-001",
+    "input": {
+      "lessons_completed": 25,
+      "avg_time_per_lesson_mins": 35.7,
+      "quiz_attempts": 4,
+      "streak_days": 1
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-002",
+    "input": {
+      "lessons_completed": 13,
+      "avg_time_per_lesson_mins": 10.6,
+      "quiz_attempts": 6,
+      "streak_days": 18
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-003",
+    "input": {
+      "lessons_completed": 39,
+      "avg_time_per_lesson_mins": 25.3,
+      "quiz_attempts": 6,
+      "streak_days": 1
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-004",
+    "input": {
+      "lessons_completed": 32,
+      "avg_time_per_lesson_mins": 10.2,
+      "quiz_attempts": 2,
+      "streak_days": 26
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-005",
+    "input": {
+      "lessons_completed": 1,
+      "avg_time_per_lesson_mins": 5.3,
+      "quiz_attempts": 5,
+      "streak_days": 24
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-006",
+    "input": {
+      "lessons_completed": 38,
+      "avg_time_per_lesson_mins": 18.6,
+      "quiz_attempts": 5,
+      "streak_days": 2
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-007",
+    "input": {
+      "lessons_completed": 8,
+      "avg_time_per_lesson_mins": 17.4,
+      "quiz_attempts": 3,
+      "streak_days": 16
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-008",
+    "input": {
+      "lessons_completed": 29,
+      "avg_time_per_lesson_mins": 17.1,
+      "quiz_attempts": 6,
+      "streak_days": 29
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-009",
+    "input": {
+      "lessons_completed": 31,
+      "avg_time_per_lesson_mins": 18.5,
+      "quiz_attempts": 5,
+      "streak_days": 16
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-010",
+    "input": {
+      "lessons_completed": 37,
+      "avg_time_per_lesson_mins": 41.3,
+      "quiz_attempts": 2,
+      "streak_days": 20
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-011",
+    "input": {
+      "lessons_completed": 29,
+      "avg_time_per_lesson_mins": 10.0,
+      "quiz_attempts": 3,
+      "streak_days": 25
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-012",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 23.9,
+      "quiz_attempts": 1,
+      "streak_days": 4
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-013",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 19.9,
+      "quiz_attempts": 2,
+      "streak_days": 27
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-014",
+    "input": {
+      "lessons_completed": 8,
+      "avg_time_per_lesson_mins": 12.6,
+      "quiz_attempts": 1,
+      "streak_days": 29
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-015",
+    "input": {
+      "lessons_completed": 16,
+      "avg_time_per_lesson_mins": 34.3,
+      "quiz_attempts": 2,
+      "streak_days": 30
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-016",
+    "input": {
+      "lessons_completed": 13,
+      "avg_time_per_lesson_mins": 25.2,
+      "quiz_attempts": 4,
+      "streak_days": 10
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-017",
+    "input": {
+      "lessons_completed": 32,
+      "avg_time_per_lesson_mins": 10.7,
+      "quiz_attempts": 3,
+      "streak_days": 24
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-018",
+    "input": {
+      "lessons_completed": 38,
+      "avg_time_per_lesson_mins": 30.2,
+      "quiz_attempts": 2,
+      "streak_days": 27
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-019",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 6.6,
+      "quiz_attempts": 2,
+      "streak_days": 21
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-020",
+    "input": {
+      "lessons_completed": 38,
+      "avg_time_per_lesson_mins": 20.4,
+      "quiz_attempts": 5,
+      "streak_days": 24
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-021",
+    "input": {
+      "lessons_completed": 33,
+      "avg_time_per_lesson_mins": 27.1,
+      "quiz_attempts": 4,
+      "streak_days": 16
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-022",
+    "input": {
+      "lessons_completed": 38,
+      "avg_time_per_lesson_mins": 31.9,
+      "quiz_attempts": 2,
+      "streak_days": 26
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-023",
+    "input": {
+      "lessons_completed": 37,
+      "avg_time_per_lesson_mins": 43.5,
+      "quiz_attempts": 6,
+      "streak_days": 5
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-024",
+    "input": {
+      "lessons_completed": 8,
+      "avg_time_per_lesson_mins": 41.1,
+      "quiz_attempts": 6,
+      "streak_days": 21
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-025",
+    "input": {
+      "lessons_completed": 28,
+      "avg_time_per_lesson_mins": 12.0,
+      "quiz_attempts": 5,
+      "streak_days": 5
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-026",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 42.2,
+      "quiz_attempts": 1,
+      "streak_days": 10
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-027",
+    "input": {
+      "lessons_completed": 16,
+      "avg_time_per_lesson_mins": 30.1,
+      "quiz_attempts": 2,
+      "streak_days": 2
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-028",
+    "input": {
+      "lessons_completed": 29,
+      "avg_time_per_lesson_mins": 35.6,
+      "quiz_attempts": 2,
+      "streak_days": 7
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-029",
+    "input": {
+      "lessons_completed": 20,
+      "avg_time_per_lesson_mins": 16.6,
+      "quiz_attempts": 2,
+      "streak_days": 8
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-030",
+    "input": {
+      "lessons_completed": 15,
+      "avg_time_per_lesson_mins": 19.9,
+      "quiz_attempts": 4,
+      "streak_days": 10
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-031",
+    "input": {
+      "lessons_completed": 16,
+      "avg_time_per_lesson_mins": 34.2,
+      "quiz_attempts": 5,
+      "streak_days": 7
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-032",
+    "input": {
+      "lessons_completed": 39,
+      "avg_time_per_lesson_mins": 19.8,
+      "quiz_attempts": 4,
+      "streak_days": 21
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-033",
+    "input": {
+      "lessons_completed": 34,
+      "avg_time_per_lesson_mins": 36.7,
+      "quiz_attempts": 3,
+      "streak_days": 27
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-034",
+    "input": {
+      "lessons_completed": 24,
+      "avg_time_per_lesson_mins": 16.9,
+      "quiz_attempts": 5,
+      "streak_days": 14
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-035",
+    "input": {
+      "lessons_completed": 15,
+      "avg_time_per_lesson_mins": 26.0,
+      "quiz_attempts": 2,
+      "streak_days": 5
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-036",
+    "input": {
+      "lessons_completed": 9,
+      "avg_time_per_lesson_mins": 7.6,
+      "quiz_attempts": 6,
+      "streak_days": 6
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-037",
+    "input": {
+      "lessons_completed": 16,
+      "avg_time_per_lesson_mins": 44.7,
+      "quiz_attempts": 1,
+      "streak_days": 15
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-038",
+    "input": {
+      "lessons_completed": 9,
+      "avg_time_per_lesson_mins": 9.9,
+      "quiz_attempts": 3,
+      "streak_days": 15
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-039",
+    "input": {
+      "lessons_completed": 34,
+      "avg_time_per_lesson_mins": 34.7,
+      "quiz_attempts": 2,
+      "streak_days": 25
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-040",
+    "input": {
+      "lessons_completed": 40,
+      "avg_time_per_lesson_mins": 24.9,
+      "quiz_attempts": 6,
+      "streak_days": 12
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-041",
+    "input": {
+      "lessons_completed": 34,
+      "avg_time_per_lesson_mins": 41.6,
+      "quiz_attempts": 2,
+      "streak_days": 24
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-042",
+    "input": {
+      "lessons_completed": 34,
+      "avg_time_per_lesson_mins": 29.3,
+      "quiz_attempts": 2,
+      "streak_days": 5
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-043",
+    "input": {
+      "lessons_completed": 19,
+      "avg_time_per_lesson_mins": 39.0,
+      "quiz_attempts": 6,
+      "streak_days": 28
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-044",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 43.6,
+      "quiz_attempts": 4,
+      "streak_days": 2
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-045",
+    "input": {
+      "lessons_completed": 2,
+      "avg_time_per_lesson_mins": 25.2,
+      "quiz_attempts": 6,
+      "streak_days": 7
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-046",
+    "input": {
+      "lessons_completed": 24,
+      "avg_time_per_lesson_mins": 10.7,
+      "quiz_attempts": 4,
+      "streak_days": 30
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-047",
+    "input": {
+      "lessons_completed": 25,
+      "avg_time_per_lesson_mins": 12.5,
+      "quiz_attempts": 2,
+      "streak_days": 2
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-048",
+    "input": {
+      "lessons_completed": 27,
+      "avg_time_per_lesson_mins": 30.3,
+      "quiz_attempts": 5,
+      "streak_days": 24
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-049",
+    "input": {
+      "lessons_completed": 31,
+      "avg_time_per_lesson_mins": 40.1,
+      "quiz_attempts": 6,
+      "streak_days": 22
+    },
+    "expected_label_at_risk": 0,
+    "model_target": "at_risk_prediction"
+  },
+  {
+    "test_id": "ET-TC-050",
+    "input": {
+      "lessons_completed": 6,
+      "avg_time_per_lesson_mins": 13.6,
+      "quiz_attempts": 4,
+      "streak_days": 19
+    },
+    "expected_label_at_risk": 1,
+    "model_target": "at_risk_prediction"
+  }
+]

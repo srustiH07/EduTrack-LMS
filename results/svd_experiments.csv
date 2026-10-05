@@ -1,0 +1,9 @@
+experiment,n_factors,n_epochs,learning_rate,regularization,ndcg_at_10
+factors_20,20,30,0.005,0.02,0.4845
+higher_learning_rate,50,30,0.01,0.02,0.484
+epochs_60,50,60,0.005,0.02,0.4807
+baseline,50,30,0.005,0.02,0.4773
+lower_regularization,50,30,0.005,0.01,0.4773
+higher_regularization,50,30,0.005,0.05,0.4755
+factors_100,100,30,0.005,0.02,0.4577
+combined_tuned,100,60,0.01,0.01,0.4565

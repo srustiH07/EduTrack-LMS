@@ -1,0 +1,2 @@
+timestamp,current_ndcg_at_10,candidate_ndcg_at_10,target_ndcg_at_10,status
+2026-10-05T21:35:13.017578,0.4845,0.46689823283484844,0.55,REJECTED

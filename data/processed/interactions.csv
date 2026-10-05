@@ -1,0 +1,589 @@
+student_id,subject,interaction_score
+STU-00007,English Grammar,0.5847
+STU-00008,Physics,0.5467
+STU-00010,Finance,0.5226
+STU-00016,Digital Marketing,0.44895
+STU-00018,English Grammar,0.3946
+STU-00022,Chemistry,0.2979
+STU-00024,Data Science,0.4377
+STU-00025,Finance,0.6633
+STU-00028,Mathematics,0.5903
+STU-00029,Digital Marketing,0.4524
+STU-00029,Finance,0.4401
+STU-00029,Data Science,0.4101
+STU-00030,English Grammar,0.5201
+STU-00032,Chemistry,0.2812
+STU-00035,Mathematics,0.4708
+STU-00038,Chemistry,0.7242
+STU-00040,Mathematics,0.4728
+STU-00041,Mathematics,0.8054
+STU-00044,English Grammar,0.1694
+STU-00045,Physics,0.5444
+STU-00046,Mathematics,0.4518
+STU-00047,English Grammar,0.7755
+STU-00048,Mathematics,0.5715
+STU-00050,Web Development,0.6683
+STU-00050,Finance,0.5293
+STU-00053,Web Development,0.6556
+STU-00053,Data Science,0.4728
+STU-00055,Chemistry,0.4162
+STU-00056,Finance,0.3789
+STU-00057,Python Programming,0.231
+STU-00058,Data Science,0.6749
+STU-00059,Data Science,0.829
+STU-00060,Python Programming,0.6157
+STU-00061,Mathematics,0.3296
+STU-00063,Web Development,0.7552
+STU-00063,Chemistry,0.5888
+STU-00064,Finance,0.5623
+STU-00064,Digital Marketing,0.3889
+STU-00067,Web Development,0.6153500000000001
+STU-00070,English Grammar,0.4872
+STU-00072,Digital Marketing,0.3261
+STU-00073,Finance,0.4405
+STU-00074,Web Development,0.448
+STU-00075,Digital Marketing,0.5865
+STU-00077,Digital Marketing,0.354
+STU-00079,Design Thinking,0.589
+STU-00079,Mathematics,0.5261
+STU-00080,Python Programming,0.6864
+STU-00080,Chemistry,0.3069
+STU-00082,Python Programming,0.6487
+STU-00089,Python Programming,0.7596
+STU-00090,Python Programming,0.4218
+STU-00092,Mathematics,0.61
+STU-00094,Finance,0.5949
+STU-00094,Design Thinking,0.4347
+STU-00095,Design Thinking,0.5151
+STU-00095,Mathematics,0.4233
+STU-00096,Finance,0.8006
+STU-00096,Data Science,0.4285
+STU-00096,Design Thinking,0.1875
+STU-00099,Digital Marketing,0.5884
+STU-00101,Physics,0.1705
+STU-00103,Digital Marketing,0.7286
+STU-00108,Mathematics,0.6264
+STU-00108,Web Development,0.5491
+STU-00108,Data Science,0.4514
+STU-00109,Design Thinking,0.40049999999999997
+STU-00110,Finance,0.4302
+STU-00111,Mathematics,0.5148
+STU-00114,English Grammar,0.2654
+STU-00115,Digital Marketing,0.46
+STU-00116,Design Thinking,0.5126
+STU-00119,Python Programming,0.1547
+STU-00120,Chemistry,0.8173
+STU-00120,Mathematics,0.5367
+STU-00122,Design Thinking,0.3753
+STU-00123,Data Science,0.1482
+STU-00127,Data Science,0.3822
+STU-00128,Mathematics,0.4661
+STU-00130,Chemistry,0.4769
+STU-00131,Mathematics,0.6078
+STU-00132,Chemistry,0.6105
+STU-00132,English Grammar,0.6007
+STU-00134,Mathematics,0.5064
+STU-00134,Physics,0.338
+STU-00136,Data Science,0.5751
+STU-00141,Python Programming,0.3891
+STU-00142,Finance,0.6676
+STU-00142,Chemistry,0.4326
+STU-00143,Design Thinking,0.3898
+STU-00143,Mathematics,0.3151
+STU-00143,Digital Marketing,0.2619
+STU-00144,Chemistry,0.5794
+STU-00149,English Grammar,0.3496
+STU-00150,Chemistry,0.5693
+STU-00152,Physics,0.4122
+STU-00153,English Grammar,0.4241
+STU-00154,English Grammar,0.5183
+STU-00154,Finance,0.5167
+STU-00154,Digital Marketing,0.3182
+STU-00154,Python Programming,0.3002
+STU-00158,Chemistry,0.6048
+STU-00159,Chemistry,0.5384
+STU-00160,English Grammar,0.4798
+STU-00162,Finance,0.3404
+STU-00163,Mathematics,0.6763
+STU-00164,Design Thinking,0.6196
+STU-00165,Web Development,0.3783
+STU-00165,English Grammar,0.3618
+STU-00174,Python Programming,0.6215
+STU-00175,Design Thinking,0.7189
+STU-00175,Python Programming,0.6235
+STU-00175,Mathematics,0.5633
+STU-00176,Digital Marketing,0.5086
+STU-00177,Finance,0.7798
+STU-00178,Finance,0.5277
+STU-00180,Mathematics,0.4763
+STU-00183,Data Science,0.4777
+STU-00185,Web Development,0.7413
+STU-00185,Mathematics,0.6216
+STU-00187,Digital Marketing,0.4763
+STU-00190,Web Development,0.7061
+STU-00195,Data Science,0.7096
+STU-00202,Python Programming,0.6381
+STU-00202,English Grammar,0.3303
+STU-00203,English Grammar,0.8071
+STU-00204,Web Development,0.5584
+STU-00204,Physics,0.3828
+STU-00205,Design Thinking,0.47435000000000005
+STU-00205,Digital Marketing,0.4357
+STU-00206,English Grammar,0.8355
+STU-00206,Mathematics,0.1922
+STU-00207,Finance,0.6545
+STU-00208,Physics,0.3421
+STU-00209,Design Thinking,0.5458
+STU-00209,Finance,0.4656
+STU-00217,Digital Marketing,0.6253
+STU-00217,English Grammar,0.5847
+STU-00218,Physics,0.7801
+STU-00220,Physics,0.3117
+STU-00220,English Grammar,0.2887
+STU-00224,Web Development,0.771
+STU-00225,Web Development,0.5743
+STU-00226,Mathematics,0.4872
+STU-00227,Finance,0.37
+STU-00233,Digital Marketing,0.4851
+STU-00233,Web Development,0.3669
+STU-00235,Mathematics,0.2533
+STU-00236,Design Thinking,0.7227
+STU-00245,Mathematics,0.5324
+STU-00246,Mathematics,0.7227
+STU-00246,Python Programming,0.6449
+STU-00249,Python Programming,0.5945
+STU-00249,Web Development,0.3988
+STU-00251,Design Thinking,0.7458
+STU-00251,English Grammar,0.7046
+STU-00252,Finance,0.5243
+STU-00253,Python Programming,0.4851
+STU-00256,English Grammar,0.6387
+STU-00257,Design Thinking,0.6945
+STU-00259,Mathematics,0.3547
+STU-00260,Chemistry,0.5749
+STU-00261,Chemistry,0.3233
+STU-00264,Chemistry,0.6584
+STU-00264,Data Science,0.551
+STU-00265,Python Programming,0.6772
+STU-00265,Chemistry,0.492
+STU-00265,Digital Marketing,0.4361
+STU-00268,Chemistry,0.6295
+STU-00270,Web Development,0.6107
+STU-00273,Data Science,0.6032
+STU-00273,Web Development,0.4439
+STU-00274,Mathematics,0.8706
+STU-00278,Web Development,0.804
+STU-00279,Chemistry,0.3661
+STU-00281,Web Development,0.6397
+STU-00284,Data Science,0.4103
+STU-00287,Web Development,0.4923
+STU-00288,Data Science,0.4954
+STU-00292,Web Development,0.6302
+STU-00295,Mathematics,0.5192
+STU-00296,Mathematics,0.6505
+STU-00297,Python Programming,0.6497
+STU-00299,Design Thinking,0.5869
+STU-00301,Python Programming,0.5373
+STU-00301,Web Development,0.454
+STU-00304,English Grammar,0.8229
+STU-00304,Finance,0.6102
+STU-00307,Physics,0.3133
+STU-00310,Finance,0.4146
+STU-00311,Python Programming,0.7928
+STU-00312,Chemistry,0.2968
+STU-00313,Python Programming,0.4243
+STU-00313,Web Development,0.2111
+STU-00314,Digital Marketing,0.4865
+STU-00314,English Grammar,0.4528
+STU-00315,Physics,0.5787
+STU-00316,Finance,0.6442
+STU-00316,Design Thinking,0.5405
+STU-00317,Data Science,0.7321
+STU-00320,Digital Marketing,0.7888
+STU-00323,English Grammar,0.6714
+STU-00325,Web Development,0.5189
+STU-00325,Finance,0.4003
+STU-00329,Physics,0.4271
+STU-00331,Finance,0.6439
+STU-00338,Python Programming,0.6465
+STU-00338,Data Science,0.4025
+STU-00339,Web Development,0.7925
+STU-00340,Data Science,0.5359
+STU-00341,Data Science,0.7893
+STU-00342,Physics,0.1359
+STU-00343,Data Science,0.6686
+STU-00343,Mathematics,0.3286
+STU-00346,Mathematics,0.7995
+STU-00348,Finance,0.5753
+STU-00350,Finance,0.598
+STU-00350,Python Programming,0.3595
+STU-00350,Data Science,0.1648
+STU-00351,Chemistry,0.4481
+STU-00355,Chemistry,0.223
+STU-00360,Web Development,0.6322
+STU-00362,Finance,0.5927
+STU-00367,Data Science,0.7922
+STU-00368,Physics,0.6638
+STU-00369,Chemistry,0.4975
+STU-00370,English Grammar,0.5869
+STU-00374,Physics,0.6869
+STU-00374,English Grammar,0.6503
+STU-00377,English Grammar,0.7801
+STU-00379,Web Development,0.4951
+STU-00380,Chemistry,0.7363
+STU-00381,Mathematics,0.6973
+STU-00382,Mathematics,0.7765
+STU-00387,Data Science,0.3654
+STU-00387,Chemistry,0.355
+STU-00388,Chemistry,0.6569
+STU-00388,English Grammar,0.6108
+STU-00388,Data Science,0.4317
+STU-00390,English Grammar,0.6596
+STU-00394,Web Development,0.2939
+STU-00396,Finance,0.64
+STU-00400,Finance,0.644
+STU-00400,Mathematics,0.2641
+STU-00401,Design Thinking,0.4633
+STU-00402,Mathematics,0.4014
+STU-00403,Physics,0.4539
+STU-00406,Design Thinking,0.6951
+STU-00407,Data Science,0.4855
+STU-00408,English Grammar,0.64
+STU-00409,Mathematics,0.3477
+STU-00409,Design Thinking,0.3179
+STU-00410,Digital Marketing,0.4848
+STU-00412,Chemistry,0.7995
+STU-00412,English Grammar,0.6214
+STU-00413,English Grammar,0.3786
+STU-00418,Design Thinking,0.5179
+STU-00420,Chemistry,0.7226
+STU-00423,Finance,0.3797
+STU-00424,Mathematics,0.47850000000000004
+STU-00426,Design Thinking,0.5558
+STU-00426,Python Programming,0.432
+STU-00429,Design Thinking,0.6875
+STU-00429,Physics,0.5055000000000001
+STU-00430,Design Thinking,0.7444
+STU-00432,Physics,0.2506
+STU-00438,Design Thinking,0.6053499999999999
+STU-00438,Digital Marketing,0.3792
+STU-00439,Python Programming,0.4346
+STU-00443,Design Thinking,0.4472
+STU-00445,Chemistry,0.538
+STU-00446,Design Thinking,0.6686
+STU-00447,Web Development,0.7364
+STU-00448,Data Science,0.4926
+STU-00449,Web Development,0.6635
+STU-00455,Data Science,0.6681
+STU-00456,Python Programming,0.3763
+STU-00456,Digital Marketing,0.334
+STU-00457,Finance,0.8022
+STU-00457,Digital Marketing,0.5302
+STU-00459,Python Programming,0.4208
+STU-00461,Chemistry,0.3209
+STU-00463,Web Development,0.4517
+STU-00464,Chemistry,0.6043
+STU-00465,English Grammar,0.4447
+STU-00466,Web Development,0.3298
+STU-00467,Data Science,0.3944
+STU-00468,Mathematics,0.5459
+STU-00468,Design Thinking,0.4958
+STU-00472,Chemistry,0.5919
+STU-00473,Physics,0.6121
+STU-00477,Data Science,0.5298
+STU-00477,Mathematics,0.4105
+STU-00478,English Grammar,0.3731
+STU-00482,Python Programming,0.4873
+STU-00484,Data Science,0.7333
+STU-00484,English Grammar,0.3219
+STU-00486,Chemistry,0.4705
+STU-00488,English Grammar,0.5069
+STU-00488,Data Science,0.4398
+STU-00492,Physics,0.3427
+STU-00494,Chemistry,0.44
+STU-00495,Chemistry,0.6178
+STU-00496,Chemistry,0.6186
+STU-00498,Chemistry,0.6816
+STU-00500,Chemistry,0.4053
+STU-00506,Physics,0.4113
+STU-00508,English Grammar,0.5738
+STU-00509,Design Thinking,0.3675
+STU-00511,Design Thinking,0.6844
+STU-00512,Digital Marketing,0.2045
+STU-00515,Data Science,0.3226
+STU-00516,Web Development,0.5351
+STU-00516,Python Programming,0.4648
+STU-00516,Mathematics,0.3979
+STU-00522,Physics,0.3808
+STU-00523,Chemistry,0.3819
+STU-00527,English Grammar,0.375
+STU-00528,Digital Marketing,0.6556
+STU-00528,Web Development,0.2316
+STU-00531,Design Thinking,0.6347
+STU-00532,Physics,0.597
+STU-00538,Web Development,0.4169
+STU-00539,Design Thinking,0.4373
+STU-00542,Digital Marketing,0.5655
+STU-00542,English Grammar,0.2337
+STU-00545,Design Thinking,0.3564
+STU-00546,Design Thinking,0.63
+STU-00546,Web Development,0.572
+STU-00550,Design Thinking,0.4481
+STU-00551,Digital Marketing,0.4063
+STU-00552,Python Programming,0.3504
+STU-00554,Physics,0.6539
+STU-00554,English Grammar,0.4331
+STU-00555,English Grammar,0.486
+STU-00556,Digital Marketing,0.3842
+STU-00557,Mathematics,0.7237
+STU-00558,Data Science,0.5221
+STU-00560,Web Development,0.6357
+STU-00561,Finance,0.7949
+STU-00562,Physics,0.5896
+STU-00563,Digital Marketing,0.4129
+STU-00564,Design Thinking,0.5203
+STU-00564,Python Programming,0.326
+STU-00565,English Grammar,0.4091
+STU-00566,Python Programming,0.8055
+STU-00568,Physics,0.3675
+STU-00569,Mathematics,0.3037
+STU-00572,Mathematics,0.5067
+STU-00572,Python Programming,0.2878
+STU-00574,Data Science,0.2687
+STU-00576,Physics,0.3521
+STU-00578,Finance,0.7233
+STU-00581,Chemistry,0.4841
+STU-00581,Finance,0.3773
+STU-00586,Chemistry,0.5974
+STU-00594,English Grammar,0.5113
+STU-00595,Finance,0.6063
+STU-00595,English Grammar,0.469
+STU-00595,Design Thinking,0.2154
+STU-00597,Finance,0.4678
+STU-00597,Design Thinking,0.453
+STU-00599,Data Science,0.5755
+STU-00599,Mathematics,0.534
+STU-00601,Design Thinking,0.3609
+STU-00602,Design Thinking,0.5113
+STU-00608,Digital Marketing,0.5121
+STU-00611,Chemistry,0.6239
+STU-00614,Chemistry,0.223
+STU-00622,Python Programming,0.6834
+STU-00622,Digital Marketing,0.5754
+STU-00623,Python Programming,0.4625
+STU-00623,Chemistry,0.4407
+STU-00624,Physics,0.4473
+STU-00626,Mathematics,0.6928
+STU-00629,Mathematics,0.4655
+STU-00629,Python Programming,0.3466
+STU-00630,Data Science,0.4188
+STU-00631,Data Science,0.4442
+STU-00632,Finance,0.6707
+STU-00632,Web Development,0.4227
+STU-00633,Mathematics,0.6936
+STU-00634,Design Thinking,0.4247
+STU-00634,Web Development,0.2195
+STU-00634,Mathematics,0.2147
+STU-00636,Python Programming,0.6187
+STU-00638,Data Science,0.6301
+STU-00638,Digital Marketing,0.4313
+STU-00639,Chemistry,0.4585
+STU-00640,Data Science,0.6029
+STU-00641,English Grammar,0.6492
+STU-00643,Physics,0.2982
+STU-00645,Physics,0.5519
+STU-00646,Finance,0.5121
+STU-00646,Python Programming,0.3846
+STU-00648,Physics,0.6269
+STU-00649,Chemistry,0.3676
+STU-00650,Data Science,0.4942
+STU-00650,Design Thinking,0.4294
+STU-00652,Design Thinking,0.3584
+STU-00658,Design Thinking,0.8236
+STU-00660,Mathematics,0.3947
+STU-00661,Data Science,0.5491
+STU-00666,Web Development,0.1908
+STU-00670,English Grammar,0.5104
+STU-00671,Finance,0.6825
+STU-00675,Digital Marketing,0.526
+STU-00679,Data Science,0.6488
+STU-00680,Mathematics,0.4799
+STU-00681,Physics,0.4482
+STU-00682,Web Development,0.4339
+STU-00687,Python Programming,0.5116
+STU-00690,Digital Marketing,0.3812
+STU-00692,Mathematics,0.4664
+STU-00694,Chemistry,0.4934
+STU-00694,Digital Marketing,0.4497
+STU-00695,Python Programming,0.2437
+STU-00698,Python Programming,0.5604
+STU-00703,Digital Marketing,0.7429
+STU-00706,Digital Marketing,0.7022
+STU-00706,Python Programming,0.5855
+STU-00706,Finance,0.3875
+STU-00708,Data Science,0.61
+STU-00714,Design Thinking,0.4849
+STU-00715,Python Programming,0.2973
+STU-00717,Python Programming,0.3833
+STU-00720,Mathematics,0.2933
+STU-00721,Data Science,0.4706
+STU-00723,Mathematics,0.4874
+STU-00728,Mathematics,0.464
+STU-00728,Data Science,0.3884
+STU-00729,Chemistry,0.5017
+STU-00731,English Grammar,0.7477
+STU-00731,Physics,0.4241
+STU-00734,English Grammar,0.2951
+STU-00736,Data Science,0.2065
+STU-00738,English Grammar,0.5843
+STU-00749,Physics,0.3249
+STU-00750,Web Development,0.5459
+STU-00751,Python Programming,0.7976
+STU-00752,Mathematics,0.6009
+STU-00752,Python Programming,0.386
+STU-00753,Physics,0.6858
+STU-00754,Physics,0.5346
+STU-00754,Design Thinking,0.4648
+STU-00754,Data Science,0.4294
+STU-00758,Data Science,0.6607
+STU-00763,Chemistry,0.3697
+STU-00766,Design Thinking,0.5461
+STU-00768,Physics,0.482
+STU-00768,Web Development,0.4605
+STU-00770,Web Development,0.4655
+STU-00770,English Grammar,0.3417
+STU-00772,Data Science,0.6337
+STU-00772,English Grammar,0.3972
+STU-00773,English Grammar,0.4163
+STU-00774,Finance,0.4363
+STU-00776,Python Programming,0.6065
+STU-00778,Data Science,0.701
+STU-00781,Python Programming,0.5928
+STU-00786,Web Development,0.707
+STU-00786,Design Thinking,0.6706
+STU-00786,Chemistry,0.0854
+STU-00787,Mathematics,0.708
+STU-00787,Physics,0.5493
+STU-00787,Finance,0.5338
+STU-00788,Python Programming,0.3808
+STU-00791,English Grammar,0.1393
+STU-00793,Chemistry,0.7162
+STU-00796,Web Development,0.5587
+STU-00796,Design Thinking,0.5333
+STU-00796,Mathematics,0.5078
+STU-00797,Chemistry,0.564
+STU-00800,Mathematics,0.8844
+STU-00802,English Grammar,0.4363
+STU-00804,Digital Marketing,0.7332
+STU-00808,Chemistry,0.3974
+STU-00809,Chemistry,0.2916
+STU-00811,Chemistry,0.2892
+STU-00816,Python Programming,0.4134
+STU-00819,English Grammar,0.7464
+STU-00819,Finance,0.3413
+STU-00825,Data Science,0.5271
+STU-00826,English Grammar,0.4851
+STU-00828,Chemistry,0.7696
+STU-00829,Chemistry,0.7394
+STU-00833,Design Thinking,0.2661
+STU-00835,Mathematics,0.7763
+STU-00835,Physics,0.3992
+STU-00836,Data Science,0.5998
+STU-00836,Physics,0.5093
+STU-00837,Physics,0.4232
+STU-00839,Data Science,0.4135
+STU-00840,Data Science,0.403
+STU-00841,Chemistry,0.4281
+STU-00844,English Grammar,0.898
+STU-00845,Data Science,0.445
+STU-00846,Python Programming,0.6745
+STU-00848,Web Development,0.4722
+STU-00849,Data Science,0.4187
+STU-00849,Design Thinking,0.3173
+STU-00850,Python Programming,0.3445
+STU-00854,Finance,0.7569
+STU-00855,Web Development,0.7997
+STU-00857,Finance,0.3582
+STU-00860,Python Programming,0.1922
+STU-00862,Python Programming,0.7379
+STU-00862,Chemistry,0.3407
+STU-00870,Physics,0.2581
+STU-00874,Physics,0.418
+STU-00874,Data Science,0.3715
+STU-00875,Digital Marketing,0.3306
+STU-00878,Python Programming,0.3942
+STU-00879,Mathematics,0.7805
+STU-00881,Web Development,0.4547
+STU-00882,Digital Marketing,0.4846
+STU-00883,Data Science,0.67
+STU-00883,Python Programming,0.5115
+STU-00884,Python Programming,0.5892
+STU-00884,Physics,0.3423
+STU-00885,Data Science,0.4094
+STU-00886,Mathematics,0.3631
+STU-00887,Chemistry,0.5462
+STU-00889,Mathematics,0.4918
+STU-00892,Web Development,0.5477
+STU-00892,Mathematics,0.4709
+STU-00892,Python Programming,0.3421
+STU-00893,Data Science,0.5326
+STU-00894,Digital Marketing,0.7497
+STU-00895,Data Science,0.4436
+STU-00896,Web Development,0.3374
+STU-00897,Web Development,0.6709
+STU-00897,Design Thinking,0.3715
+STU-00902,English Grammar,0.7148
+STU-00902,Python Programming,0.4302
+STU-00903,Physics,0.6288
+STU-00903,Chemistry,0.4455
+STU-00905,Data Science,0.5387
+STU-00906,Mathematics,0.7688
+STU-00906,Finance,0.4208
+STU-00907,English Grammar,0.4244
+STU-00908,Finance,0.1012
+STU-00914,Digital Marketing,0.4549
+STU-00915,Finance,0.4621
+STU-00917,Python Programming,0.6465
+STU-00920,Web Development,0.4817
+STU-00920,Chemistry,0.4237
+STU-00921,Design Thinking,0.438
+STU-00923,English Grammar,0.4402
+STU-00924,Design Thinking,0.7643
+STU-00924,Physics,0.7603
+STU-00926,Web Development,0.6012
+STU-00926,Chemistry,0.4143
+STU-00927,Digital Marketing,0.5779
+STU-00928,English Grammar,0.3379
+STU-00932,Mathematics,0.4453
+STU-00938,Design Thinking,0.5444
+STU-00940,Design Thinking,0.3821
+STU-00943,Data Science,0.6666
+STU-00946,English Grammar,0.4022
+STU-00947,Data Science,0.4957
+STU-00947,English Grammar,0.4032
+STU-00948,Chemistry,0.7268
+STU-00948,Python Programming,0.5332
+STU-00953,Design Thinking,0.4757
+STU-00954,Digital Marketing,0.611
+STU-00955,Physics,0.6177
+STU-00956,Web Development,0.2107
+STU-00958,Chemistry,0.1325
+STU-00960,Physics,0.6156
+STU-00964,Mathematics,0.3054
+STU-00965,Digital Marketing,0.4671
+STU-00966,Finance,0.4038
+STU-00968,Data Science,0.6846
+STU-00968,Finance,0.6462
+STU-00969,Data Science,0.6791
+STU-00973,Design Thinking,0.4989
+STU-00973,Physics,0.475
+STU-00975,Design Thinking,0.5601
+STU-00977,Finance,0.345
+STU-00978,Physics,0.5295
+STU-00987,English Grammar,0.3383
+STU-00990,Python Programming,0.3562
+STU-00992,Web Development,0.5094
+STU-00992,Digital Marketing,0.4724
+STU-00993,Web Development,0.4488
+STU-00997,Digital Marketing,0.8071
+STU-00999,Data Science,0.5394
